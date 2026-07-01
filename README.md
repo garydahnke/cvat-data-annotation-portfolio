@@ -93,6 +93,15 @@ Certifications:
 GitHub: https://github.com/garydahnke  
 LinkedIn: https://linkedin.com/in/gary-dahnke
 
+### Resume
+You can access my professional resume here:
+[View My Resume](https://github.com/garydahnke/ai-professional/resume/resume.pdf)
+
+### Badges & Certifications
+My verified badges and certifications are available here:
+[Badges and Certifications](https://github.com/garydahnke/ai-professional/blob/main/<your-badges-file>.pdf)
+
+
 Future Workflow
 ---------------
 Planned additions:
