@@ -104,7 +104,7 @@ My verified badges and certifications are available here:
 
 Future Workflow
 ---------------
-Planned additions:
--More complex multi-object scenes
--Additional segmentation projects
--COCO/YOLO export samples
+Planned additions:  
+-More complex multi-object scenes  
+-Additional segmentation projects  
+-COCO/YOLO export samples  
