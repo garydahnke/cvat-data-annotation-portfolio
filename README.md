@@ -95,7 +95,7 @@ LinkedIn: https://linkedin.com/in/gary-dahnke
 
 ### Resume
 You can access my professional resume here:
-[View My Resume](https://github.com/garydahnke/ai-professional/resume/resume.pdf)
+[View My Resume](https://github.com/garydahnke/ai-professional/blob/main/resume/resume.pdf)
 
 ### Badges & Certifications
 My verified badges and certifications are available here:
