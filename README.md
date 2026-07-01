@@ -99,7 +99,7 @@ You can access my professional resume here:
 
 ### Badges & Certifications
 My verified badges and certifications are available here:
-[Badges and Certifications](https://github.com/garydahnke/ai-professional/blob/main/<your-badges-file>.pdf)
+[Badges and Certifications](https://github.com/garydahnke/ai-professional/blob/main/certifications/badges-and certifications.pdf)
 
 
 Future Workflow
