@@ -3,7 +3,7 @@ This repository contains examples of data annotation using the Computer Vision A
 
 Project Overview
 ----------------
-This portfolio contains a curated sets of annotated images in a presenation format using Computer Vision Annotation Tool (CVAT) software to demonstrate competency in:  
+This portfolio contains a curated sets of annotated images in a presentation format using Computer Vision Annotation Tool (CVAT) software to demonstrate competency in:  
 -Object detection  
 -Masking annotation  
 -Polygon annotation  
@@ -12,7 +12,7 @@ This portfolio contains a curated sets of annotated images in a presenation form
 -Tag labeling  
 -Multi-object scene annotation  
 -Clean documentation and workflow organization  
-Each project folder includes presentation(s) of data annotations using the CVAT tool. Each presentation has a title page with a brief on the data annotation,the original image, one or more data annotations created using CVAT.
+Each project folder includes presentations of data annotations using the CVAT tool. Each presentation has a title page with a brief on the data annotation, the original image, one or more data annotations created using CVAT.
 
 Dataset Sources
 ---------------
@@ -41,54 +41,54 @@ Presentation Workflow:
 
 Portfolio Structure
 --------------------
-cvat-data-annotation-portfolio/
+cvat-data-annotation-portfolio/  
+│  
+├── masks/  
+│   ├── mask-annotation-apple.odp  
+│   ├── mask-annotation-table-and-two-chairs.odp  
+│   ├── mask-annotation-tools.odp  
+│   └── mask-annotation-two-cars.odp  
+│  
+├── multiple-annotations/  
+│   ├── multiple-annotations-1980s-scene.odp  
+│   └── multiple-annotations-1990s-scene.odp  
 │
-├── masks/
-│   ├── mask-annotation-apple.odp
-│   ├── mask-annotation-table-and-two-chairs.odp
-│   ├── mask-annotation-tools.odp
-│   └── mask-annotation-two-cars.odp
-│
-├── multiple-annotations/
-│   ├── multiple-annotations-1980s-scene.odp
-│   └── multiple-annotations-1990s-scene.odp
-│
-├── polygons/
-│   └── polygon-annotations-1990s-scene.odp
-│
-└── README.md
+├── polygons/  
+│   └── polygon-annotations-1990s-scene.odp  
+│  
+└── README.md  
 
 Skills Demonstrated
 -------------------
--Multi-type annotation proficiency
--Understanding of annotation quality standards
--Ability to handle occlusion, irregular shapes, and complex scenes
--Clean documentation and reproducible workflow
--Familiarity with CVAT’s interface and export formats
--Portfolio organization suitable for professional review
+-Multi-type annotation proficiency  
+-Understanding of annotation quality standards  
+-Ability to handle occlusion, irregular shapes, and complex scenes  
+-Clean documentation and reproducible workflow  
+-Familiarity with CVAT’s interface and export formats  
+-Portfolio organization suitable for professional review  
 
 Use Cases
 ---------
 This portfolio demonstrates readiness for roles such as:
--Data Annotation Specialist
--Computer Vision Labeler
--AI/ML Support Technician
--Model Evaluation & QA
--Annotation QA Reviewer
+-Data Annotation Specialist  
+-Computer Vision Labeler  
+-AI/ML Support Technician  
+-Model Evaluation & QA  
+-Annotation QA Reviewer  
 
 About the Author
 ----------------
 Gary Dahnke - Columbus, Ohio  
-• Release Management and Application Delivery specialist with 30+ years across mainframe, distributed, web, and cloud environments.
-• Strong background in software development, deployment, and production support, now expanding into AI-aligned workflows through Python, data analysis, automation, and data-centric        operations.
-• Skilled in diagnosing complex system and data issues, coordinating cross-functional teams, and executing full SDLC processes.
-• Building capabilities in model testing, data labeling, and prompt engineering to support modern AI-driven delivery pipelines.
-Certifications:
-• AWS Certified AI Practitioner - Amazon Web Services (Issued Jan 2026, Expires Jan 2029)
-• Microsoft Certified: Azure AI Fundamentals - Microsoft (Issued Feb 2026)
-• PCED – Certified Entry-Level Data Analyst with Python - Python Institute (Issued May 2026)
-• PCEP – Certified Entry-Level Python Programmer - Python Institute (Issued Mar 2026)
-• AWS Certified Cloud Practitioner - Amazon Web Services (Issued Sep 2024, Expires Sep 2027)
+• Release Management and Application Delivery specialist with 30+ years across mainframe, distributed, web, and cloud environments.  
+• Strong background in software development, deployment, and production support, now expanding into AI-aligned workflows through Python, data analysis, automation, and data-centric        operations.  
+• Skilled in diagnosing complex system and data issues, coordinating cross-functional teams, and executing full SDLC processes.  
+• Building capabilities in model testing, data labeling, and prompt engineering to support modern AI-driven delivery pipelines.  
+Certifications:  
+• AWS Certified AI Practitioner - Amazon Web Services (Issued Jan 2026, Expires Jan 2029)  
+• Microsoft Certified: Azure AI Fundamentals - Microsoft (Issued Feb 2026)  
+• PCED – Certified Entry-Level Data Analyst with Python - Python Institute (Issued May 2026)  
+• PCEP – Certified Entry-Level Python Programmer - Python Institute (Issued Mar 2026)  
+• AWS Certified Cloud Practitioner - Amazon Web Services (Issued Sep 2024, Expires Sep 2027)  
 
 GitHub: https://github.com/garydahnke  
 LinkedIn: https://linkedin.com/in/gary-dahnke
