@@ -16,9 +16,9 @@ Each project folder includes presentations of data annotations using the CVAT to
 
 Dataset Sources
 ---------------
-Images in this portfolio come from:
--Public, royalty-free image libraries like Kaggle and pexels 
--AI Generated images from Copilot
+Images in this portfolio come from:  
+-Public, royalty-free image libraries like Kaggle and pexels     
+-AI Generated images from Copilot  
 
 Tools & Workflow
 ----------------
