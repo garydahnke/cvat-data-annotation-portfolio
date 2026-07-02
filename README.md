@@ -44,19 +44,19 @@ Portfolio Structure
 cvat-data-annotation-portfolio/  
 │  
 ├── masks/  
-│   ├── mask-annotation-apple.odp  
-│   ├── mask-annotation-table-and-two-chairs.odp  
-│   ├── mask-annotation-tools.odp  
-│   └── mask-annotation-two-cars.odp  
-│  
+│   ├── mask-annotation-apple.pdf  
+│   ├── mask-annotation-table-and-two-chairs.pdf  
+│   ├── mask-annotation-tools.pdf  
+│   └── mask-annotation-two-cars.pdf  
+│   
 ├── multiple-annotations/  
-│   ├── multiple-annotations-1980s-scene.odp  
-│   └── multiple-annotations-1990s-scene.odp  
-│
-├── polygons/  
-│   └── polygon-annotations-1990s-scene.odp  
-│  
-└── README.md  
+│   ├── multiple-annotations-1980s-scene.pdf    
+│   └── multiple-annotations-1990s-scene.pdf    
+│      
+├── polygons/    
+│   └── polygon-annotations-1990s-scene.pdf  
+│      
+└── README.md    
 
 Skills Demonstrated
 -------------------
