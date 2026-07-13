@@ -44,11 +44,11 @@ Portfolio Structure
 cvat-data-annotation-portfolio/  
 │  
 ├── masks/  
-│   ├── mask-annotation-apple.pdf  
+│   ├── mask-annotation-apple.pdf    
 │   ├── mask-annotation-table-and-two-chairs.pdf  
 │   ├── mask-annotation-tools.pdf 
-│   ├── mask-annotation-two-cars.pdf 
-│   └── mask-annotation-3d-shapes.pdf  
+│   ├── mask-annotation-two-cars.pdf   
+│   └── mask-annotation-3d-shapes.pdf    
 │   
 ├── multiple-annotations/  
 │   ├── multiple-annotations-1980s-scene.pdf    
