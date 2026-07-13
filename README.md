@@ -85,7 +85,7 @@ Gary Dahnke - Columbus, Ohio
 • Strong background in software development, deployment, and production support, now expanding into AI-aligned workflows through Python, data analysis, automation, and data-centric        operations.  
 • Skilled in diagnosing complex system and data issues, coordinating cross-functional teams, and executing full SDLC processes.  
 • Building capabilities in model testing, data labeling, and prompt engineering to support modern AI-driven delivery pipelines.  
-
+    
 Certifications:  
 • AWS Certified AI Practitioner - Amazon Web Services (Issued Jan 2026, Expires Jan 2029)  
 • Microsoft Certified: Azure AI Fundamentals - Microsoft (Issued Feb 2026)  
