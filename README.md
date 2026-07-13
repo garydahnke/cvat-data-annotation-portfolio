@@ -4,14 +4,14 @@ This repository contains examples of data annotation using the Computer Vision A
 Project Overview
 ----------------
 This portfolio contains a curated sets of annotated images in a presentation format using Computer Vision Annotation Tool (CVAT) software to demonstrate competency in:  
-    1. Object detection  
-    2. Masking annotation  
-    3. Polygon annotation  
-    4. Skeleton annotation with attributes  
-    5. Bounding boxes with attributes  
-    6. Tag labeling  
-    7. Multi-object scene annotation  
-    8. Clean documentation and workflow organization  
+1. Object detection  
+2. Masking annotation  
+3. Polygon annotation  
+4. Skeleton annotation with attributes  
+5. Bounding boxes with attributes  
+6. Tag labeling  
+7. Multi-object scene annotation  
+8. Clean documentation and workflow organization  
 Each project folder includes presentations of data annotations using the CVAT tool. Each presentation has a title page with a brief on the data annotation, the original image, one or more data annotations created using CVAT.
 
 Dataset Sources
