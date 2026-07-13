@@ -11,7 +11,8 @@ This portfolio contains a curated sets of annotated images in a presentation for
 5. Bounding boxes with attributes  
 6. Tag labeling  
 7. Multi-object scene annotation  
-8. Clean documentation and workflow organization  
+8. Clean documentation and workflow organization
+     
 Each project folder includes presentations of data annotations using the CVAT tool. Each presentation has a title page with a brief on the data annotation, the original image, one or more data annotations created using CVAT.
 
 Dataset Sources
