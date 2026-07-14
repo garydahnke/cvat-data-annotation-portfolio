@@ -71,7 +71,7 @@ Skills Demonstrated
 
 Use Cases
 ---------
-This portfolio demonstrates readiness for roles such as:
+This portfolio demonstrates readiness for roles such as:  
 -Data Annotation Specialist  
 -Computer Vision Labeler  
 -AI/ML Support Technician  
