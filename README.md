@@ -1,7 +1,12 @@
 Computer Vision Annotation Tool (CVAT) Data Annotation Portfolio    
 All Annotations by Gary Dahnke
+<h2 align="center">Computer Vision Annotation Tool (CVAT) Data Annotation Portfolio</h2>
+<h2 align="center">All Annotations by Gary Dahnke</h2>
+<p align="center">
+  <img src="readme/images/polished-cvat-portfolio-mask-emblem.png" width="400">
+</p>
 -------------------------------------------------------------------------------------------------
-![Computer Vision Annotation Tool (CVAT) Data Annotation Portfolio](/readme/images/polished-cvat-portfolio-mask-emblem.png)
+
 
 Project Overview
 ----------------
