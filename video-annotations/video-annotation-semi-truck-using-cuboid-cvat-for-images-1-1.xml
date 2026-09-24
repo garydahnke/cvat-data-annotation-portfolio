@@ -1,0 +1,1732 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>4307944</id>
+      <size>167</size>
+      <mode>interpolation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-08-01 18:44:37.178285+00:00</created>
+      <updated>2026-09-23 22:09:25.880315+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>166</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>4305871</id>
+          <start>0</start>
+          <stop>166</stop>
+          <url>https://app.cvat.ai/api/jobs/4307944/dataset/export/api/jobs/4307944</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>garydahnke</username>
+        <email>garydahnke@sbcglobal.net</email>
+      </owner>
+      <assignee>
+        <username>garydahnke</username>
+        <email>garydahnke@sbcglobal.net</email>
+      </assignee>
+      <labels>
+        <label>
+          <name>truck_cuboid</name>
+          <color>#fa3253</color>
+          <type>cuboid</type>
+          <attributes>
+            <attribute>
+              <name>Truncated</name>
+              <mutable>True</mutable>
+              <input_type>checkbox</input_type>
+              <default_value>false</default_value>
+              <values>false</values>
+            </attribute>
+            <attribute>
+              <name>Cuboid not possible</name>
+              <mutable>True</mutable>
+              <input_type>checkbox</input_type>
+              <default_value>false</default_value>
+              <values>false</values>
+            </attribute>
+          </attributes>
+        </label>
+        <label>
+          <name>truck_polygon</name>
+          <color>#66ff66</color>
+          <type>polygon</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2026-09-24 00:40:49.641886+00:00</dumped>
+    <original_size>
+      <width>2160</width>
+      <height>3840</height>
+    </original_size>
+  </meta>
+  <track id="0" label="truck_cuboid" source="manual">
+    <cuboid frame="0" keyframe="1" outside="0" occluded="0" xtl1="167.00" ytl1="1611.51" xbl1="167.00" ybl1="1758.53" xtr1="284.27" ytr1="1611.41" xbr1="284.27" ybr1="1758.53" xtl2="218.77" ytl2="1628.96" xbl2="218.77" ybl2="1750.13" xtr2="122.20" ytr2="1629.03" xbr2="122.20" ybr2="1750.14" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="1" keyframe="1" outside="1" occluded="0" xtl1="167.00" ytl1="1611.51" xbl1="167.00" ybl1="1758.53" xtr1="284.27" ytr1="1611.41" xbr1="284.27" ybr1="1758.53" xtl2="218.77" ytl2="1628.96" xbl2="218.77" ybl2="1750.13" xtr2="122.20" ytr2="1629.03" xbr2="122.20" ybr2="1750.14" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="1" label="truck_cuboid" source="manual">
+    <cuboid frame="1" keyframe="1" outside="0" occluded="0" xtl1="168.03" ytl1="1611.51" xbl1="168.03" ybl1="1759.90" xtr1="284.27" ytr1="1611.41" xbr1="284.27" ybr1="1759.90" xtl2="218.40" ytl2="1629.71" xbl2="218.40" ybl2="1752.85" xtr2="122.03" ytr2="1629.78" xbr2="122.03" ybr2="1752.85" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="2" keyframe="1" outside="1" occluded="0" xtl1="168.03" ytl1="1611.51" xbl1="168.03" ybl1="1759.90" xtr1="284.27" ytr1="1611.41" xbr1="284.27" ybr1="1759.90" xtl2="218.40" ytl2="1629.71" xbl2="218.40" ybl2="1752.85" xtr2="122.03" ytr2="1629.78" xbr2="122.03" ybr2="1752.85" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="2" label="truck_cuboid" source="manual">
+    <cuboid frame="2" keyframe="1" outside="0" occluded="0" xtl1="168.03" ytl1="1613.58" xbl1="168.03" ybl1="1764.71" xtr1="285.30" ytr1="1613.48" xbr1="285.30" ybr1="1764.72" xtl2="219.62" ytl2="1630.65" xbl2="219.62" ybl2="1755.23" xtr2="123.05" ytr2="1630.73" xbr2="123.05" ybr2="1755.23" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="3" keyframe="1" outside="1" occluded="0" xtl1="168.03" ytl1="1613.58" xbl1="168.03" ybl1="1764.71" xtr1="285.30" ytr1="1613.48" xbr1="285.30" ybr1="1764.72" xtl2="219.62" ytl2="1630.65" xbl2="219.62" ybl2="1755.23" xtr2="123.05" ytr2="1630.73" xbr2="123.05" ybr2="1755.23" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="3" label="truck_cuboid" source="manual">
+    <cuboid frame="3" keyframe="1" outside="0" occluded="0" xtl1="168.03" ytl1="1615.29" xbl1="168.03" ybl1="1768.84" xtr1="286.68" ytr1="1615.20" xbr1="286.68" ybr1="1768.85" xtl2="220.75" ytl2="1632.07" xbl2="220.75" ybl2="1758.63" xtr2="123.05" ytr2="1632.14" xbr2="123.05" ybr2="1758.63" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="4" keyframe="1" outside="1" occluded="0" xtl1="168.03" ytl1="1615.29" xbl1="168.03" ybl1="1768.84" xtr1="286.68" ytr1="1615.20" xbr1="286.68" ybr1="1768.85" xtl2="220.75" ytl2="1632.07" xbl2="220.75" ybl2="1758.63" xtr2="123.05" ytr2="1632.14" xbr2="123.05" ybr2="1758.63" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="4" label="truck_cuboid" source="manual">
+    <cuboid frame="4" keyframe="1" outside="0" occluded="0" xtl1="168.25" ytl1="1617.02" xbl1="168.25" ybl1="1770.90" xtr1="287.36" ytr1="1614.86" xbr1="287.36" ybr1="1768.85" xtl2="218.66" ytl2="1633.22" xbl2="218.66" ybl2="1760.20" xtr2="120.47" ytr2="1634.99" xbr2="120.47" ybr2="1761.90" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="5" keyframe="1" outside="1" occluded="0" xtl1="168.25" ytl1="1617.02" xbl1="168.25" ybl1="1770.90" xtr1="287.36" ytr1="1614.86" xbr1="287.36" ybr1="1768.85" xtl2="218.66" ytl2="1633.22" xbl2="218.66" ybl2="1760.20" xtr2="120.47" ytr2="1634.99" xbr2="120.47" ybr2="1761.90" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="5" label="truck_cuboid" source="manual">
+    <cuboid frame="5" keyframe="1" outside="0" occluded="0" xtl1="167.80" ytl1="1618.28" xbl1="167.80" ybl1="1772.45" xtr1="289.44" ytr1="1619.00" xbr1="289.44" ybr1="1773.28" xtl2="219.39" ytl2="1637.63" xbl2="219.39" ybl2="1763.44" xtr2="120.21" ytr2="1637.03" xbr2="120.21" ybr2="1762.77" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="6" keyframe="1" outside="1" occluded="0" xtl1="167.80" ytl1="1618.28" xbl1="167.80" ybl1="1772.45" xtr1="289.44" ytr1="1619.00" xbr1="289.44" ybr1="1773.28" xtl2="219.39" ytl2="1637.63" xbl2="219.39" ybl2="1763.44" xtr2="120.21" ytr2="1637.03" xbr2="120.21" ybr2="1762.77" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="6" label="truck_cuboid" source="manual">
+    <cuboid frame="6" keyframe="1" outside="0" occluded="0" xtl1="169.77" ytl1="1620.72" xbl1="169.77" ybl1="1776.48" xtr1="293.48" ytr1="1620.62" xbr1="293.48" ybr1="1776.48" xtl2="220.24" ytl2="1639.06" xbl2="220.24" ybl2="1765.51" xtr2="119.90" ytr2="1639.14" xbr2="119.90" ybr2="1765.52" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="7" keyframe="1" outside="1" occluded="0" xtl1="169.77" ytl1="1620.72" xbl1="169.77" ybl1="1776.48" xtr1="293.48" ytr1="1620.62" xbr1="293.48" ybr1="1776.48" xtl2="220.24" ytl2="1639.06" xbl2="220.24" ybl2="1765.51" xtr2="119.90" ytr2="1639.14" xbr2="119.90" ybr2="1765.52" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="7" label="truck_cuboid" source="manual">
+    <cuboid frame="7" keyframe="1" outside="0" occluded="0" xtl1="169.76" ytl1="1620.72" xbl1="169.76" ybl1="1776.94" xtr1="295.32" ytr1="1620.62" xbr1="295.32" ybr1="1776.94" xtl2="222.47" ytl2="1640.33" xbl2="222.47" ybl2="1768.45" xtr2="119.60" ytr2="1640.40" xbr2="119.60" ybr2="1768.45" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="8" keyframe="1" outside="1" occluded="0" xtl1="169.76" ytl1="1620.72" xbl1="169.76" ybl1="1776.94" xtr1="295.32" ytr1="1620.62" xbr1="295.32" ybr1="1776.94" xtl2="222.47" ytl2="1640.33" xbl2="222.47" ybl2="1768.45" xtr2="119.60" ytr2="1640.40" xbr2="119.60" ybr2="1768.45" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="8" label="truck_cuboid" source="manual">
+    <cuboid frame="8" keyframe="1" outside="0" occluded="0" xtl1="170.23" ytl1="1622.10" xbl1="170.23" ybl1="1779.24" xtr1="297.16" ytr1="1621.99" xbr1="297.16" ybr1="1779.24" xtl2="224.61" ytl2="1641.52" xbl2="224.61" ybl2="1770.70" xtr2="120.36" ytr2="1641.60" xbr2="120.36" ybr2="1770.70" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="9" keyframe="1" outside="1" occluded="0" xtl1="170.23" ytl1="1622.10" xbl1="170.23" ybl1="1779.24" xtr1="297.16" ytr1="1621.99" xbr1="297.16" ybr1="1779.24" xtl2="224.61" ytl2="1641.52" xbl2="224.61" ybl2="1770.70" xtr2="120.36" ytr2="1641.60" xbr2="120.36" ybr2="1770.70" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="9" label="truck_cuboid" source="manual">
+    <cuboid frame="9" keyframe="1" outside="0" occluded="0" xtl1="171.15" ytl1="1621.64" xbl1="171.15" ybl1="1782.92" xtr1="299.00" ytr1="1621.53" xbr1="299.00" ybr1="1782.93" xtl2="223.97" ytl2="1641.21" xbl2="223.97" ybl2="1772.07" xtr2="120.34" ytr2="1641.29" xbr2="120.34" ybr2="1772.07" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="10" keyframe="1" outside="1" occluded="0" xtl1="171.15" ytl1="1621.64" xbl1="171.15" ybl1="1782.92" xtr1="299.00" ytr1="1621.53" xbr1="299.00" ybr1="1782.93" xtl2="223.97" ytl2="1641.21" xbl2="223.97" ybl2="1772.07" xtr2="120.34" ytr2="1641.29" xbr2="120.34" ybr2="1772.07" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="10" label="truck_cuboid" source="manual">
+    <cuboid frame="10" keyframe="1" outside="0" occluded="0" xtl1="172.07" ytl1="1623.48" xbl1="172.07" ybl1="1785.22" xtr1="301.30" ytr1="1623.37" xbr1="301.30" ybr1="1785.23" xtl2="229.23" ytl2="1642.19" xbl2="229.23" ybl2="1774.54" xtr2="123.59" ytr2="1642.27" xbr2="123.59" ybr2="1774.54" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="11" keyframe="1" outside="1" occluded="0" xtl1="172.07" ytl1="1623.48" xbl1="172.07" ybl1="1785.22" xtr1="301.30" ytr1="1623.37" xbr1="301.30" ybr1="1785.23" xtl2="229.23" ytl2="1642.19" xbl2="229.23" ybl2="1774.54" xtr2="123.59" ytr2="1642.27" xbr2="123.59" ybr2="1774.54" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="11" label="truck_cuboid" source="manual">
+    <cuboid frame="11" keyframe="1" outside="0" occluded="0" xtl1="173.91" ytl1="1622.56" xbl1="173.91" ybl1="1785.22" xtr1="302.23" ytr1="1622.45" xbr1="302.23" ybr1="1785.23" xtl2="226.10" ytl2="1643.06" xbl2="226.10" ybl2="1776.47" xtr2="120.96" ytr2="1643.13" xbr2="120.96" ybr2="1776.47" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="12" keyframe="1" outside="1" occluded="0" xtl1="173.91" ytl1="1622.56" xbl1="173.91" ybl1="1785.22" xtr1="302.23" ytr1="1622.45" xbr1="302.23" ybr1="1785.23" xtl2="226.10" ytl2="1643.06" xbl2="226.10" ybl2="1776.47" xtr2="120.96" ytr2="1643.13" xbr2="120.96" ybr2="1776.47" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="12" label="truck_cuboid" source="manual">
+    <cuboid frame="12" keyframe="1" outside="0" occluded="0" xtl1="174.83" ytl1="1623.94" xbl1="174.83" ybl1="1787.98" xtr1="305.45" ytr1="1623.83" xbr1="305.45" ybr1="1788.00" xtl2="230.65" ytl2="1643.46" xbl2="230.65" ybl2="1778.12" xtr2="123.54" ytr2="1643.54" xbr2="123.54" ybr2="1778.11" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="13" keyframe="1" outside="1" occluded="0" xtl1="174.83" ytl1="1623.94" xbl1="174.83" ybl1="1787.98" xtr1="305.45" ytr1="1623.83" xbr1="305.45" ybr1="1788.00" xtl2="230.65" ytl2="1643.46" xbl2="230.65" ybl2="1778.12" xtr2="123.54" ytr2="1643.54" xbr2="123.54" ybr2="1778.11" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="13" label="truck_cuboid" source="manual">
+    <cuboid frame="13" keyframe="1" outside="0" occluded="0" xtl1="176.21" ytl1="1623.48" xbl1="176.21" ybl1="1790.28" xtr1="308.67" ytr1="1623.37" xbr1="308.67" ybr1="1790.30" xtl2="230.50" ytl2="1643.78" xbl2="230.50" ybl2="1779.51" xtr2="122.83" ytr2="1643.86" xbr2="122.83" ybr2="1779.51" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="14" keyframe="1" outside="1" occluded="0" xtl1="176.21" ytl1="1623.48" xbl1="176.21" ybl1="1790.28" xtr1="308.67" ytr1="1623.37" xbr1="308.67" ybr1="1790.30" xtl2="230.50" ytl2="1643.78" xbl2="230.50" ybl2="1779.51" xtr2="122.83" ytr2="1643.86" xbr2="122.83" ybr2="1779.51" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="14" label="truck_cuboid" source="manual">
+    <cuboid frame="14" keyframe="1" outside="0" occluded="0" xtl1="178.05" ytl1="1623.48" xbl1="178.05" ybl1="1791.20" xtr1="311.43" ytr1="1623.36" xbr1="311.43" ybr1="1791.22" xtl2="231.79" ytl2="1644.11" xbl2="231.79" ybl2="1780.54" xtr2="123.41" ytr2="1644.18" xbr2="123.41" ybr2="1780.53" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="15" keyframe="1" outside="1" occluded="0" xtl1="178.05" ytl1="1623.48" xbl1="178.05" ybl1="1791.20" xtr1="311.43" ytr1="1623.36" xbr1="311.43" ybr1="1791.22" xtl2="231.79" ytl2="1644.11" xbl2="231.79" ybl2="1780.54" xtr2="123.41" ytr2="1644.18" xbr2="123.41" ybr2="1780.53" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="15" label="truck_cuboid" source="manual">
+    <cuboid frame="15" keyframe="1" outside="0" occluded="0" xtl1="179.43" ytl1="1623.94" xbl1="179.43" ybl1="1793.51" xtr1="313.74" ytr1="1623.82" xbr1="313.74" ybr1="1793.52" xtl2="229.86" ytl2="1645.33" xbl2="229.86" ybl2="1781.36" xtr2="122.24" ytr2="1645.41" xbr2="122.24" ybr2="1781.35" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="16" keyframe="1" outside="1" occluded="0" xtl1="179.43" ytl1="1623.94" xbl1="179.43" ybl1="1793.51" xtr1="313.74" ytr1="1623.82" xbr1="313.74" ybr1="1793.52" xtl2="229.86" ytl2="1645.33" xbl2="229.86" ybl2="1781.36" xtr2="122.24" ytr2="1645.41" xbr2="122.24" ybr2="1781.35" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="16" label="truck_cuboid" source="manual">
+    <cuboid frame="16" keyframe="1" outside="0" occluded="0" xtl1="181.74" ytl1="1625.32" xbl1="181.74" ybl1="1794.88" xtr1="318.34" ytr1="1625.20" xbr1="318.34" ybr1="1794.90" xtl2="236.05" ytl2="1645.89" xbl2="236.05" ybl2="1783.27" xtr2="125.50" ytr2="1645.97" xbr2="125.50" ybr2="1783.26" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="17" keyframe="1" outside="1" occluded="0" xtl1="181.74" ytl1="1625.32" xbl1="181.74" ybl1="1794.88" xtr1="318.34" ytr1="1625.20" xbr1="318.34" ybr1="1794.90" xtl2="236.05" ytl2="1645.89" xbl2="236.05" ybl2="1783.27" xtr2="125.50" ytr2="1645.97" xbr2="125.50" ybr2="1783.26" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="17" label="truck_cuboid" source="manual">
+    <cuboid frame="17" keyframe="1" outside="0" occluded="0" xtl1="183.12" ytl1="1621.63" xbl1="183.12" ybl1="1797.19" xtr1="321.10" ytr1="1621.51" xbr1="321.10" ybr1="1797.21" xtl2="235.79" ytl2="1643.29" xbl2="235.79" ybl2="1783.49" xtr2="125.71" ytr2="1643.37" xbr2="125.71" ybr2="1783.49" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="18" keyframe="1" outside="1" occluded="0" xtl1="183.12" ytl1="1621.63" xbl1="183.12" ybl1="1797.19" xtr1="321.10" ytr1="1621.51" xbr1="321.10" ybr1="1797.21" xtl2="235.79" ytl2="1643.29" xbl2="235.79" ybl2="1783.49" xtr2="125.71" ytr2="1643.37" xbr2="125.71" ybr2="1783.49" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="18" label="truck_cuboid" source="manual">
+    <cuboid frame="18" keyframe="1" outside="0" occluded="0" xtl1="185.88" ytl1="1623.93" xbl1="185.88" ybl1="1797.65" xtr1="326.63" ytr1="1623.81" xbr1="326.63" ybr1="1797.67" xtl2="242.74" ytl2="1644.58" xbl2="242.74" ybl2="1784.69" xtr2="129.35" ytr2="1644.66" xbr2="129.35" ybr2="1784.68" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="19" keyframe="1" outside="1" occluded="0" xtl1="185.88" ytl1="1623.93" xbl1="185.88" ybl1="1797.65" xtr1="326.63" ytr1="1623.81" xbr1="326.63" ybr1="1797.67" xtl2="242.74" ytl2="1644.58" xbl2="242.74" ybl2="1784.69" xtr2="129.35" ytr2="1644.66" xbr2="129.35" ybr2="1784.68" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="19" label="truck_cuboid" source="manual">
+    <cuboid frame="19" keyframe="1" outside="0" occluded="0" xtl1="187.72" ytl1="1622.55" xbl1="187.72" ybl1="1799.49" xtr1="328.47" ytr1="1622.43" xbr1="328.47" ybr1="1799.51" xtl2="237.70" ytl2="1645.17" xbl2="237.70" ybl2="1785.44" xtr2="126.25" ytr2="1645.25" xbr2="126.25" ybr2="1785.43" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="20" keyframe="1" outside="1" occluded="0" xtl1="187.72" ytl1="1622.55" xbl1="187.72" ybl1="1799.49" xtr1="328.47" ytr1="1622.43" xbr1="328.47" ybr1="1799.51" xtl2="237.70" ytl2="1645.17" xbl2="237.70" ybl2="1785.44" xtr2="126.25" ytr2="1645.25" xbr2="126.25" ybr2="1785.43" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="20" label="truck_cuboid" source="manual">
+    <cuboid frame="20" keyframe="1" outside="0" occluded="0" xtl1="189.10" ytl1="1622.10" xbl1="189.10" ybl1="1801.79" xtr1="332.15" ytr1="1621.98" xbr1="332.15" ybr1="1801.81" xtl2="246.25" ytl2="1643.40" xbl2="246.25" ybl2="1787.53" xtr2="131.63" ytr2="1643.48" xbr2="131.63" ybr2="1787.52" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="21" keyframe="1" outside="1" occluded="0" xtl1="189.10" ytl1="1622.10" xbl1="189.10" ybl1="1801.79" xtr1="332.15" ytr1="1621.98" xbr1="332.15" ybr1="1801.81" xtl2="246.25" ytl2="1643.40" xbl2="246.25" ybl2="1787.53" xtr2="131.63" ytr2="1643.48" xbr2="131.63" ybr2="1787.52" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="21" label="truck_cuboid" source="manual">
+    <cuboid frame="21" keyframe="1" outside="0" occluded="0" xtl1="191.86" ytl1="1619.78" xbl1="191.86" ybl1="1803.17" xtr1="335.37" ytr1="1619.66" xbr1="335.37" ybr1="1803.20" xtl2="245.68" ytl2="1642.09" xbl2="245.68" ybl2="1787.59" xtr2="131.94" ytr2="1642.17" xbr2="131.94" ybr2="1787.58" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="22" keyframe="1" outside="1" occluded="0" xtl1="191.86" ytl1="1619.78" xbl1="191.86" ybl1="1803.17" xtr1="335.37" ytr1="1619.66" xbr1="335.37" ybr1="1803.20" xtl2="245.68" ytl2="1642.09" xbl2="245.68" ybl2="1787.59" xtr2="131.94" ytr2="1642.17" xbr2="131.94" ybr2="1787.58" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="22" label="truck_cuboid" source="manual">
+    <cuboid frame="22" keyframe="1" outside="0" occluded="0" xtl1="194.17" ytl1="1620.71" xbl1="194.17" ybl1="1802.71" xtr1="339.06" ytr1="1620.59" xbr1="339.06" ybr1="1802.74" xtl2="246.77" ytl2="1643.91" xbl2="246.77" ybl2="1788.04" xtr2="132.16" ytr2="1643.99" xbr2="132.16" ybr2="1788.03" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="23" keyframe="1" outside="1" occluded="0" xtl1="194.17" ytl1="1620.71" xbl1="194.17" ybl1="1802.71" xtr1="339.06" ytr1="1620.59" xbr1="339.06" ybr1="1802.74" xtl2="246.77" ytl2="1643.91" xbl2="246.77" ybl2="1788.04" xtr2="132.16" ytr2="1643.99" xbr2="132.16" ybr2="1788.03" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="23" label="truck_cuboid" source="manual">
+    <cuboid frame="23" keyframe="1" outside="0" occluded="0" xtl1="196.01" ytl1="1617.94" xbl1="196.01" ybl1="1804.09" xtr1="340.90" ytr1="1617.81" xbr1="340.90" ybr1="1804.12" xtl2="243.02" ytl2="1642.83" xbl2="243.02" ybl2="1789.05" xtr2="129.35" ytr2="1642.91" xbr2="129.35" ybr2="1789.04" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="24" keyframe="1" outside="1" occluded="0" xtl1="196.01" ytl1="1617.94" xbl1="196.01" ybl1="1804.09" xtr1="340.90" ytr1="1617.81" xbr1="340.90" ybr1="1804.12" xtl2="243.02" ytl2="1642.83" xbl2="243.02" ybl2="1789.05" xtr2="129.35" ytr2="1642.91" xbr2="129.35" ybr2="1789.04" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="24" label="truck_cuboid" source="manual">
+    <cuboid frame="24" keyframe="1" outside="0" occluded="0" xtl1="196.93" ytl1="1619.32" xbl1="196.93" ybl1="1804.09" xtr1="344.58" ytr1="1619.19" xbr1="344.58" ybr1="1804.12" xtl2="251.16" ytl2="1642.52" xbl2="251.16" ybl2="1789.59" xtr2="133.78" ytr2="1642.60" xbr2="133.78" ybr2="1789.57" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="25" keyframe="1" outside="1" occluded="0" xtl1="196.93" ytl1="1619.32" xbl1="196.93" ybl1="1804.09" xtr1="344.58" ytr1="1619.19" xbr1="344.58" ybr1="1804.12" xtl2="251.16" ytl2="1642.52" xbl2="251.16" ybl2="1789.59" xtr2="133.78" ytr2="1642.60" xbr2="133.78" ybr2="1789.57" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="25" label="truck_cuboid" source="manual">
+    <cuboid frame="25" keyframe="1" outside="0" occluded="0" xtl1="199.69" ytl1="1616.56" xbl1="199.69" ybl1="1806.39" xtr1="349.64" ytr1="1616.42" xbr1="349.64" ybr1="1806.42" xtl2="253.13" ytl2="1640.66" xbl2="253.13" ybl2="1790.24" xtr2="135.12" ytr2="1640.75" xbr2="135.12" ybr2="1790.23" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="26" keyframe="1" outside="1" occluded="0" xtl1="199.69" ytl1="1616.56" xbl1="199.69" ybl1="1806.39" xtr1="349.64" ytr1="1616.42" xbr1="349.64" ybr1="1806.42" xtl2="253.13" ytl2="1640.66" xbl2="253.13" ybl2="1790.24" xtr2="135.12" ytr2="1640.75" xbr2="135.12" ybr2="1790.23" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="26" label="truck_cuboid" source="manual">
+    <cuboid frame="26" keyframe="1" outside="0" occluded="0" xtl1="202.45" ytl1="1616.56" xbl1="202.45" ybl1="1806.39" xtr1="355.63" ytr1="1616.42" xbr1="355.63" ybr1="1806.42" xtl2="258.32" ytl2="1641.00" xbl2="258.32" ybl2="1792.32" xtr2="136.37" ytr2="1641.09" xbr2="136.37" ybr2="1792.30" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="27" keyframe="1" outside="1" occluded="0" xtl1="202.45" ytl1="1616.56" xbl1="202.45" ybl1="1806.39" xtr1="355.63" ytr1="1616.42" xbr1="355.63" ybr1="1806.42" xtl2="258.32" ytl2="1641.00" xbl2="258.32" ybl2="1792.32" xtr2="136.37" ytr2="1641.09" xbr2="136.37" ybr2="1792.30" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="27" label="truck_cuboid" source="manual">
+    <cuboid frame="27" keyframe="1" outside="0" occluded="0" xtl1="204.29" ytl1="1616.55" xbl1="204.29" ybl1="1808.23" xtr1="357.01" ytr1="1616.42" xbr1="357.01" ybr1="1808.27" xtl2="260.58" ytl2="1640.16" xbl2="260.58" ybl2="1793.50" xtr2="138.56" ytr2="1640.25" xbr2="138.56" ybr2="1793.48" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="28" keyframe="1" outside="1" occluded="0" xtl1="204.29" ytl1="1616.55" xbl1="204.29" ybl1="1808.23" xtr1="357.01" ytr1="1616.42" xbr1="357.01" ybr1="1808.27" xtl2="260.58" ytl2="1640.16" xbl2="260.58" ybl2="1793.50" xtr2="138.56" ytr2="1640.25" xbr2="138.56" ybr2="1793.48" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="28" label="truck_cuboid" source="manual">
+    <cuboid frame="28" keyframe="1" outside="0" occluded="0" xtl1="206.59" ytl1="1614.71" xbl1="206.59" ybl1="1807.31" xtr1="361.61" ytr1="1614.57" xbr1="361.61" ybr1="1807.35" xtl2="264.78" ytl2="1639.20" xbl2="264.78" ybl2="1793.74" xtr2="140.55" ytr2="1639.29" xbr2="140.55" ybr2="1793.72" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="29" keyframe="1" outside="1" occluded="0" xtl1="206.59" ytl1="1614.71" xbl1="206.59" ybl1="1807.31" xtr1="361.61" ytr1="1614.57" xbr1="361.61" ybr1="1807.35" xtl2="264.78" ytl2="1639.20" xbl2="264.78" ybl2="1793.74" xtr2="140.55" ytr2="1639.29" xbr2="140.55" ybr2="1793.72" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="29" label="truck_cuboid" source="manual">
+    <cuboid frame="29" keyframe="1" outside="0" occluded="0" xtl1="207.52" ytl1="1613.79" xbl1="207.52" ybl1="1810.07" xtr1="364.84" ytr1="1613.65" xbr1="364.84" ybr1="1810.11" xtl2="264.28" ytl2="1638.95" xbl2="264.28" ybl2="1794.20" xtr2="140.01" ytr2="1639.05" xbr2="140.01" ybr2="1794.19" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="30" keyframe="1" outside="1" occluded="0" xtl1="207.52" ytl1="1613.79" xbl1="207.52" ybl1="1810.07" xtr1="364.84" ytr1="1613.65" xbr1="364.84" ybr1="1810.11" xtl2="264.28" ytl2="1638.95" xbl2="264.28" ybl2="1794.20" xtr2="140.01" ytr2="1639.05" xbr2="140.01" ybr2="1794.19" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="30" label="truck_cuboid" source="manual">
+    <cuboid frame="30" keyframe="1" outside="0" occluded="0" xtl1="210.28" ytl1="1610.11" xbl1="210.28" ybl1="1811.91" xtr1="368.98" ytr1="1609.96" xbr1="368.98" ybr1="1811.95" xtl2="265.39" ytl2="1636.63" xbl2="265.39" ybl2="1795.40" xtr2="140.69" ytr2="1636.73" xbr2="140.69" ybr2="1795.39" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="31" keyframe="1" outside="1" occluded="0" xtl1="210.28" ytl1="1610.11" xbl1="210.28" ybl1="1811.91" xtr1="368.98" ytr1="1609.96" xbr1="368.98" ybr1="1811.95" xtl2="265.39" ytl2="1636.63" xbl2="265.39" ybl2="1795.40" xtr2="140.69" ytr2="1636.73" xbr2="140.69" ybr2="1795.39" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="31" label="truck_cuboid" source="manual">
+    <cuboid frame="31" keyframe="1" outside="0" occluded="0" xtl1="213.50" ytl1="1611.94" xbl1="213.50" ybl1="1813.29" xtr1="373.12" ytr1="1611.80" xbr1="373.12" ybr1="1813.33" xtl2="266.83" ytl2="1636.84" xbl2="266.83" ybl2="1795.50" xtr2="141.22" ytr2="1636.94" xbr2="141.22" ybr2="1795.48" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="32" keyframe="1" outside="1" occluded="0" xtl1="213.50" ytl1="1611.94" xbl1="213.50" ybl1="1813.29" xtr1="373.12" ytr1="1611.80" xbr1="373.12" ybr1="1813.33" xtl2="266.83" ytl2="1636.84" xbl2="266.83" ybl2="1795.50" xtr2="141.22" ytr2="1636.94" xbr2="141.22" ybr2="1795.48" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="32" label="truck_cuboid" source="manual">
+    <cuboid frame="32" keyframe="1" outside="0" occluded="0" xtl1="216.72" ytl1="1610.56" xbl1="216.72" ybl1="1813.76" xtr1="377.27" ytr1="1610.41" xbr1="377.27" ybr1="1813.80" xtl2="270.90" ytl2="1635.51" xbl2="270.90" ybl2="1797.47" xtr2="143.11" ytr2="1635.60" xbr2="143.11" ybr2="1797.45" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="33" keyframe="1" outside="1" occluded="0" xtl1="216.72" ytl1="1610.56" xbl1="216.72" ybl1="1813.76" xtr1="377.27" ytr1="1610.41" xbr1="377.27" ybr1="1813.80" xtl2="270.90" ytl2="1635.51" xbl2="270.90" ybl2="1797.47" xtr2="143.11" ytr2="1635.60" xbr2="143.11" ybr2="1797.45" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="33" label="truck_cuboid" source="manual">
+    <cuboid frame="33" keyframe="1" outside="0" occluded="0" xtl1="217.64" ytl1="1607.34" xbl1="217.64" ybl1="1816.98" xtr1="380.95" ytr1="1607.19" xbr1="380.95" ybr1="1817.02" xtl2="270.63" ytl2="1634.68" xbl2="270.63" ybl2="1798.41" xtr2="143.27" ytr2="1634.78" xbr2="143.27" ybr2="1798.39" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="34" keyframe="1" outside="1" occluded="0" xtl1="217.64" ytl1="1607.34" xbl1="217.64" ybl1="1816.98" xtr1="380.95" ytr1="1607.19" xbr1="380.95" ybr1="1817.02" xtl2="270.63" ytl2="1634.68" xbl2="270.63" ybl2="1798.41" xtr2="143.27" ytr2="1634.78" xbr2="143.27" ybr2="1798.39" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="34" label="truck_cuboid" source="manual">
+    <cuboid frame="34" keyframe="1" outside="0" occluded="0" xtl1="220.87" ytl1="1609.18" xbl1="220.87" ybl1="1816.98" xtr1="385.09" ytr1="1609.02" xbr1="385.09" ybr1="1817.02" xtl2="275.39" ytl2="1634.07" xbl2="275.39" ybl2="1800.61" xtr2="143.96" ytr2="1634.17" xbr2="143.96" ybr2="1800.58" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="35" keyframe="1" outside="1" occluded="0" xtl1="220.87" ytl1="1609.18" xbl1="220.87" ybl1="1816.98" xtr1="385.09" ytr1="1609.02" xbr1="385.09" ybr1="1817.02" xtl2="275.39" ytl2="1634.07" xbl2="275.39" ybl2="1800.61" xtr2="143.96" ytr2="1634.17" xbr2="143.96" ybr2="1800.58" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="35" label="truck_cuboid" source="manual">
+    <cuboid frame="35" keyframe="1" outside="0" occluded="0" xtl1="222.71" ytl1="1607.79" xbl1="222.71" ybl1="1818.82" xtr1="389.70" ytr1="1607.64" xbr1="389.70" ybr1="1818.87" xtl2="278.83" ytl2="1634.31" xbl2="278.83" ybl2="1801.98" xtr2="146.33" ytr2="1634.42" xbr2="146.33" ybr2="1801.96" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="36" keyframe="1" outside="1" occluded="0" xtl1="222.71" ytl1="1607.79" xbl1="222.71" ybl1="1818.82" xtr1="389.70" ytr1="1607.64" xbr1="389.70" ybr1="1818.87" xtl2="278.83" ytl2="1634.31" xbl2="278.83" ybl2="1801.98" xtr2="146.33" ytr2="1634.42" xbr2="146.33" ybr2="1801.96" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="36" label="truck_cuboid" source="manual">
+    <cuboid frame="36" keyframe="1" outside="0" occluded="0" xtl1="225.47" ytl1="1606.41" xbl1="225.47" ybl1="1821.58" xtr1="394.76" ytr1="1606.25" xbr1="394.76" ybr1="1821.63" xtl2="277.88" ytl2="1634.73" xbl2="277.88" ybl2="1802.92" xtr2="145.74" ytr2="1634.83" xbr2="145.74" ybr2="1802.90" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="37" keyframe="1" outside="1" occluded="0" xtl1="225.47" ytl1="1606.41" xbl1="225.47" ybl1="1821.58" xtr1="394.76" ytr1="1606.25" xbr1="394.76" ybr1="1821.63" xtl2="277.88" ytl2="1634.73" xbl2="277.88" ybl2="1802.92" xtr2="145.74" ytr2="1634.83" xbr2="145.74" ybr2="1802.90" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="37" label="truck_cuboid" source="manual">
+    <cuboid frame="37" keyframe="1" outside="0" occluded="0" xtl1="227.92" ytl1="1605.35" xbl1="227.92" ybl1="1822.90" xtr1="400.25" ytr1="1605.19" xbr1="400.25" ybr1="1822.95" xtl2="279.75" ytl2="1636.04" xbl2="279.75" ybl2="1804.93" xtr2="146.15" ytr2="1636.14" xbr2="146.15" ybr2="1804.91" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="38" keyframe="1" outside="1" occluded="0" xtl1="227.92" ytl1="1605.35" xbl1="227.92" ybl1="1822.90" xtr1="400.25" ytr1="1605.19" xbr1="400.25" ybr1="1822.95" xtl2="279.75" ytl2="1636.04" xbl2="279.75" ybl2="1804.93" xtr2="146.15" ytr2="1636.14" xbr2="146.15" ybr2="1804.91" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="38" label="truck_cuboid" source="manual">
+    <cuboid frame="38" keyframe="1" outside="0" occluded="0" xtl1="229.52" ytl1="1605.35" xbl1="229.52" ybl1="1824.50" xtr1="406.11" ytr1="1605.18" xbr1="406.11" ybr1="1824.55" xtl2="284.74" ytl2="1636.01" xbl2="284.74" ybl2="1806.69" xtr2="147.41" ytr2="1636.12" xbr2="147.41" ybr2="1806.66" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="39" keyframe="1" outside="1" occluded="0" xtl1="229.52" ytl1="1605.35" xbl1="229.52" ybl1="1824.50" xtr1="406.11" ytr1="1605.18" xbr1="406.11" ybr1="1824.55" xtl2="284.74" ytl2="1636.01" xbl2="284.74" ybl2="1806.69" xtr2="147.41" ytr2="1636.12" xbr2="147.41" ybr2="1806.66" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="39" label="truck_cuboid" source="manual">
+    <cuboid frame="39" keyframe="1" outside="0" occluded="0" xtl1="232.18" ytl1="1604.28" xbl1="232.18" ybl1="1826.63" xtr1="410.37" ytr1="1604.11" xbr1="410.37" ybr1="1826.69" xtl2="288.06" ytl2="1635.17" xbl2="288.06" ybl2="1808.32" xtr2="149.51" ytr2="1635.28" xbr2="149.51" ybr2="1808.29" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="40" keyframe="1" outside="1" occluded="0" xtl1="232.18" ytl1="1604.28" xbl1="232.18" ybl1="1826.63" xtr1="410.37" ytr1="1604.11" xbr1="410.37" ybr1="1826.69" xtl2="288.06" ytl2="1635.17" xbl2="288.06" ybl2="1808.32" xtr2="149.51" ytr2="1635.28" xbr2="149.51" ybr2="1808.29" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="40" label="truck_cuboid" source="manual">
+    <cuboid frame="40" keyframe="1" outside="0" occluded="0" xtl1="235.91" ytl1="1601.09" xbl1="235.91" ybl1="1828.76" xtr1="415.16" ytr1="1600.91" xbr1="415.16" ybr1="1828.82" xtl2="288.92" ytl2="1633.32" xbl2="288.92" ybl2="1808.96" xtr2="150.84" ytr2="1633.43" xbr2="150.84" ybr2="1808.93" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="41" keyframe="1" outside="1" occluded="0" xtl1="235.91" ytl1="1601.09" xbl1="235.91" ybl1="1828.76" xtr1="415.16" ytr1="1600.91" xbr1="415.16" ybr1="1828.82" xtl2="288.92" ytl2="1633.32" xbl2="288.92" ybl2="1808.96" xtr2="150.84" ytr2="1633.43" xbr2="150.84" ybr2="1808.93" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="41" label="truck_cuboid" source="manual">
+    <cuboid frame="41" keyframe="1" outside="0" occluded="0" xtl1="239.11" ytl1="1602.15" xbl1="239.11" ybl1="1831.42" xtr1="421.02" ytr1="1601.97" xbr1="421.02" ybr1="1831.48" xtl2="292.16" ytl2="1637.35" xbl2="292.16" ybl2="1812.62" xtr2="153.31" ytr2="1637.45" xbr2="153.31" ybr2="1812.58" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="42" keyframe="1" outside="1" occluded="0" xtl1="239.11" ytl1="1602.15" xbl1="239.11" ybl1="1831.42" xtr1="421.02" ytr1="1601.97" xbr1="421.02" ybr1="1831.48" xtl2="292.16" ytl2="1637.35" xbl2="292.16" ybl2="1812.62" xtr2="153.31" ytr2="1637.45" xbr2="153.31" ybr2="1812.58" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="42" label="truck_cuboid" source="manual">
+    <cuboid frame="42" keyframe="1" outside="0" occluded="0" xtl1="242.83" ytl1="1601.61" xbl1="242.83" ybl1="1833.55" xtr1="426.88" ytr1="1601.43" xbr1="426.88" ybr1="1833.62" xtl2="292.46" ytl2="1636.90" xbl2="292.46" ybl2="1814.30" xtr2="151.92" ytr2="1637.01" xbr2="151.92" ybr2="1814.26" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="43" keyframe="1" outside="1" occluded="0" xtl1="242.83" ytl1="1601.61" xbl1="242.83" ybl1="1833.55" xtr1="426.88" ytr1="1601.43" xbr1="426.88" ybr1="1833.62" xtl2="292.46" ytl2="1636.90" xbl2="292.46" ybl2="1814.30" xtr2="151.92" ytr2="1637.01" xbr2="151.92" ybr2="1814.26" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="43" label="truck_cuboid" source="manual">
+    <cuboid frame="43" keyframe="1" outside="0" occluded="0" xtl1="243.90" ytl1="1601.08" xbl1="243.90" ybl1="1836.21" xtr1="432.21" ytr1="1600.90" xbr1="432.21" ybr1="1836.29" xtl2="300.42" ytl2="1634.38" xbl2="300.42" ybl2="1815.95" xtr2="155.23" ytr2="1634.49" xbr2="155.23" ybr2="1815.91" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="44" keyframe="1" outside="1" occluded="0" xtl1="243.90" ytl1="1601.08" xbl1="243.90" ybl1="1836.21" xtr1="432.21" ytr1="1600.90" xbr1="432.21" ybr1="1836.29" xtl2="300.42" ytl2="1634.38" xbl2="300.42" ybl2="1815.95" xtr2="155.23" ytr2="1634.49" xbr2="155.23" ybr2="1815.91" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="44" label="truck_cuboid" source="manual">
+    <cuboid frame="44" keyframe="1" outside="0" occluded="0" xtl1="248.16" ytl1="1599.48" xbl1="248.16" ybl1="1839.94" xtr1="438.60" ytr1="1599.29" xbr1="438.60" ybr1="1840.02" xtl2="298.49" ytl2="1636.19" xbl2="298.49" ybl2="1817.73" xtr2="154.96" ytr2="1636.31" xbr2="154.96" ybr2="1817.69" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="45" keyframe="1" outside="1" occluded="0" xtl1="248.16" ytl1="1599.48" xbl1="248.16" ybl1="1839.94" xtr1="438.60" ytr1="1599.29" xbr1="438.60" ybr1="1840.02" xtl2="298.49" ytl2="1636.19" xbl2="298.49" ybl2="1817.73" xtr2="154.96" ytr2="1636.31" xbr2="154.96" ybr2="1817.69" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="45" label="truck_cuboid" source="manual">
+    <cuboid frame="45" keyframe="1" outside="0" occluded="0" xtl1="250.83" ytl1="1601.07" xbl1="250.83" ybl1="1843.14" xtr1="444.46" ytr1="1600.88" xbr1="444.46" ybr1="1843.22" xtl2="302.17" ytl2="1638.93" xbl2="302.17" ybl2="1820.78" xtr2="156.94" ytr2="1639.04" xbr2="156.94" ybr2="1820.74" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="46" keyframe="1" outside="1" occluded="0" xtl1="250.83" ytl1="1601.07" xbl1="250.83" ybl1="1843.14" xtr1="444.46" ytr1="1600.88" xbr1="444.46" ybr1="1843.22" xtl2="302.17" ytl2="1638.93" xbl2="302.17" ybl2="1820.78" xtr2="156.94" ytr2="1639.04" xbr2="156.94" ybr2="1820.74" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="46" label="truck_cuboid" source="manual">
+    <cuboid frame="46" keyframe="1" outside="0" occluded="0" xtl1="256.15" ytl1="1597.87" xbl1="256.15" ybl1="1843.67" xtr1="449.25" ytr1="1597.68" xbr1="449.25" ybr1="1843.75" xtl2="303.21" ytl2="1636.31" xbl2="303.21" ybl2="1822.25" xtr2="157.39" ytr2="1636.43" xbr2="157.39" ybr2="1822.21" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="47" keyframe="1" outside="1" occluded="0" xtl1="256.15" ytl1="1597.87" xbl1="256.15" ybl1="1843.67" xtr1="449.25" ytr1="1597.68" xbr1="449.25" ybr1="1843.75" xtl2="303.21" ytl2="1636.31" xbl2="303.21" ybl2="1822.25" xtr2="157.39" ytr2="1636.43" xbr2="157.39" ybr2="1822.21" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="47" label="truck_cuboid" source="manual">
+    <cuboid frame="47" keyframe="1" outside="0" occluded="0" xtl1="260.41" ytl1="1596.27" xbl1="260.41" ybl1="1846.33" xtr1="456.71" ytr1="1596.07" xbr1="456.71" ybr1="1846.42" xtl2="302.58" ytl2="1639.46" xbl2="302.58" ybl2="1824.63" xtr2="157.47" ytr2="1639.57" xbr2="157.47" ybr2="1824.58" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="48" keyframe="1" outside="1" occluded="0" xtl1="260.41" ytl1="1596.27" xbl1="260.41" ybl1="1846.33" xtr1="456.71" ytr1="1596.07" xbr1="456.71" ybr1="1846.42" xtl2="302.58" ytl2="1639.46" xbl2="302.58" ybl2="1824.63" xtr2="157.47" ytr2="1639.57" xbr2="157.47" ybr2="1824.58" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="48" label="truck_cuboid" source="manual">
+    <cuboid frame="48" keyframe="1" outside="0" occluded="0" xtl1="264.14" ytl1="1594.67" xbl1="264.14" ybl1="1849.53" xtr1="463.63" ytr1="1594.47" xbr1="463.63" ybr1="1849.62" xtl2="308.93" ytl2="1636.29" xbl2="308.93" ybl2="1827.13" xtr2="159.81" ytr2="1636.41" xbr2="159.81" ybr2="1827.09" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="49" keyframe="1" outside="1" occluded="0" xtl1="264.14" ytl1="1594.67" xbl1="264.14" ybl1="1849.53" xtr1="463.63" ytr1="1594.47" xbr1="463.63" ybr1="1849.62" xtl2="308.93" ytl2="1636.29" xbl2="308.93" ybl2="1827.13" xtr2="159.81" ytr2="1636.41" xbr2="159.81" ybr2="1827.09" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="49" label="truck_cuboid" source="manual">
+    <cuboid frame="49" keyframe="1" outside="0" occluded="0" xtl1="268.40" ytl1="1593.07" xbl1="268.40" ybl1="1851.66" xtr1="470.03" ytr1="1592.86" xbr1="470.03" ybr1="1851.75" xtl2="309.79" ytl2="1636.58" xbl2="309.79" ybl2="1828.48" xtr2="160.43" ytr2="1636.69" xbr2="160.43" ybr2="1828.43" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="50" keyframe="1" outside="1" occluded="0" xtl1="268.40" ytl1="1593.07" xbl1="268.40" ybl1="1851.66" xtr1="470.03" ytr1="1592.86" xbr1="470.03" ybr1="1851.75" xtl2="309.79" ytl2="1636.58" xbl2="309.79" ybl2="1828.48" xtr2="160.43" ytr2="1636.69" xbr2="160.43" ybr2="1828.43" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="50" label="truck_cuboid" source="manual">
+    <cuboid frame="50" keyframe="1" outside="0" occluded="0" xtl1="271.07" ytl1="1594.13" xbl1="271.07" ybl1="1855.92" xtr1="475.89" ytr1="1593.92" xbr1="475.89" ybr1="1856.02" xtl2="310.46" ytl2="1639.16" xbl2="310.46" ybl2="1831.37" xtr2="160.35" ytr2="1639.27" xbr2="160.35" ybr2="1831.32" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="51" keyframe="1" outside="1" occluded="0" xtl1="271.07" ytl1="1594.13" xbl1="271.07" ybl1="1855.92" xtr1="475.89" ytr1="1593.92" xbr1="475.89" ybr1="1856.02" xtl2="310.46" ytl2="1639.16" xbl2="310.46" ybl2="1831.37" xtr2="160.35" ytr2="1639.27" xbr2="160.35" ybr2="1831.32" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="51" label="truck_cuboid" source="manual">
+    <cuboid frame="51" keyframe="1" outside="0" occluded="0" xtl1="274.79" ytl1="1592.00" xbl1="274.79" ybl1="1856.98" xtr1="484.41" ytr1="1591.78" xbr1="484.41" ybr1="1857.09" xtl2="316.28" ytl2="1638.25" xbl2="316.28" ybl2="1833.44" xtr2="162.16" ytr2="1638.37" xbr2="162.16" ybr2="1833.39" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="52" keyframe="1" outside="1" occluded="0" xtl1="274.79" ytl1="1592.00" xbl1="274.79" ybl1="1856.98" xtr1="484.41" ytr1="1591.78" xbr1="484.41" ybr1="1857.09" xtl2="316.28" ytl2="1638.25" xbl2="316.28" ybl2="1833.44" xtr2="162.16" ytr2="1638.37" xbr2="162.16" ybr2="1833.39" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="52" label="truck_cuboid" source="manual">
+    <cuboid frame="52" keyframe="1" outside="0" occluded="0" xtl1="279.06" ytl1="1589.87" xbl1="279.06" ybl1="1859.11" xtr1="489.74" ytr1="1589.65" xbr1="489.74" ybr1="1859.22" xtl2="320.30" ytl2="1635.99" xbl2="320.30" ybl2="1836.31" xtr2="163.85" ytr2="1636.11" xbr2="163.85" ybr2="1836.25" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="53" keyframe="1" outside="1" occluded="0" xtl1="279.06" ytl1="1589.87" xbl1="279.06" ybl1="1859.11" xtr1="489.74" ytr1="1589.65" xbr1="489.74" ybr1="1859.22" xtl2="320.30" ytl2="1635.99" xbl2="320.30" ybl2="1836.31" xtr2="163.85" ytr2="1636.11" xbr2="163.85" ybr2="1836.25" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="53" label="truck_cuboid" source="manual">
+    <cuboid frame="53" keyframe="1" outside="0" occluded="0" xtl1="284.38" ytl1="1588.11" xbl1="284.38" ybl1="1863.91" xtr1="497.19" ytr1="1587.88" xbr1="497.19" ybr1="1864.02" xtl2="319.57" ytl2="1638.15" xbl2="319.57" ybl2="1839.16" xtr2="164.77" ytr2="1638.26" xbr2="164.77" ybr2="1839.10" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="54" keyframe="1" outside="1" occluded="0" xtl1="284.38" ytl1="1588.11" xbl1="284.38" ybl1="1863.91" xtr1="497.19" ytr1="1587.88" xbr1="497.19" ybr1="1864.02" xtl2="319.57" ytl2="1638.15" xbl2="319.57" ybl2="1839.16" xtr2="164.77" ytr2="1638.26" xbr2="164.77" ybr2="1839.10" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="54" label="truck_cuboid" source="manual">
+    <cuboid frame="54" keyframe="1" outside="0" occluded="0" xtl1="286.45" ytl1="1586.26" xbl1="286.45" ybl1="1864.50" xtr1="507.61" ytr1="1586.02" xbr1="507.61" ybr1="1864.62" xtl2="327.36" ytl2="1636.41" xbl2="327.36" ybl2="1840.93" xtr2="165.13" ytr2="1636.54" xbr2="165.13" ybr2="1840.86" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="55" keyframe="1" outside="1" occluded="0" xtl1="286.45" ytl1="1586.26" xbl1="286.45" ybl1="1864.50" xtr1="507.61" ytr1="1586.02" xbr1="507.61" ybr1="1864.62" xtl2="327.36" ytl2="1636.41" xbl2="327.36" ybl2="1840.93" xtr2="165.13" ytr2="1636.54" xbr2="165.13" ybr2="1840.86" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="55" label="truck_cuboid" source="manual">
+    <cuboid frame="55" keyframe="1" outside="0" occluded="0" xtl1="291.99" ytl1="1586.25" xbl1="291.99" ybl1="1868.81" xtr1="515.00" ytr1="1586.01" xbr1="515.00" ybr1="1868.94" xtl2="327.97" ytl2="1637.79" xbl2="327.97" ybl2="1843.80" xtr2="165.70" ytr2="1637.92" xbr2="165.70" ybr2="1843.73" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="56" keyframe="1" outside="1" occluded="0" xtl1="291.99" ytl1="1586.25" xbl1="291.99" ybl1="1868.81" xtr1="515.00" ytr1="1586.01" xbr1="515.00" ybr1="1868.94" xtl2="327.97" ytl2="1637.79" xbl2="327.97" ybl2="1843.80" xtr2="165.70" ytr2="1637.92" xbr2="165.70" ybr2="1843.73" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="56" label="truck_cuboid" source="manual">
+    <cuboid frame="56" keyframe="1" outside="0" occluded="0" xtl1="295.69" ytl1="1583.17" xbl1="295.69" ybl1="1870.66" xtr1="523.02" ytr1="1582.92" xbr1="523.02" ybr1="1870.79" xtl2="332.96" ytl2="1637.26" xbl2="332.96" ybl2="1847.37" xtr2="167.16" ytr2="1637.39" xbr2="167.16" ybr2="1847.30" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="57" keyframe="1" outside="1" occluded="0" xtl1="295.69" ytl1="1583.17" xbl1="295.69" ybl1="1870.66" xtr1="523.02" ytr1="1582.92" xbr1="523.02" ybr1="1870.79" xtl2="332.96" ytl2="1637.26" xbl2="332.96" ybl2="1847.37" xtr2="167.16" ytr2="1637.39" xbr2="167.16" ybr2="1847.30" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="57" label="truck_cuboid" source="manual">
+    <cuboid frame="57" keyframe="1" outside="0" occluded="0" xtl1="298.77" ytl1="1583.78" xbl1="298.77" ybl1="1874.36" xtr1="529.80" ytr1="1583.53" xbr1="529.80" ybr1="1874.50" xtl2="328.64" ytl2="1642.04" xbl2="328.64" ybl2="1849.73" xtr2="163.86" ytr2="1642.16" xbr2="163.86" ybr2="1849.66" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="58" keyframe="1" outside="1" occluded="0" xtl1="298.77" ytl1="1583.78" xbl1="298.77" ybl1="1874.36" xtr1="529.80" ytr1="1583.53" xbr1="529.80" ybr1="1874.50" xtl2="328.64" ytl2="1642.04" xbl2="328.64" ybl2="1849.73" xtr2="163.86" ytr2="1642.16" xbr2="163.86" ybr2="1849.66" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="58" label="truck_cuboid" source="manual">
+    <cuboid frame="58" keyframe="1" outside="0" occluded="0" xtl1="302.47" ytl1="1580.70" xbl1="302.47" ybl1="1877.44" xtr1="540.89" ytr1="1580.43" xbr1="540.89" ybr1="1877.59" xtl2="339.15" ytl2="1636.78" xbl2="339.15" ybl2="1852.84" xtr2="165.93" ytr2="1636.92" xbr2="165.93" ybr2="1852.76" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="59" keyframe="1" outside="1" occluded="0" xtl1="302.47" ytl1="1580.70" xbl1="302.47" ybl1="1877.44" xtr1="540.89" ytr1="1580.43" xbr1="540.89" ybr1="1877.59" xtl2="339.15" ytl2="1636.78" xbl2="339.15" ybl2="1852.84" xtr2="165.93" ytr2="1636.92" xbr2="165.93" ybr2="1852.76" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="59" label="truck_cuboid" source="manual">
+    <cuboid frame="59" keyframe="1" outside="0" occluded="0" xtl1="307.40" ytl1="1578.23" xbl1="307.40" ybl1="1880.52" xtr1="548.90" ytr1="1577.96" xbr1="548.90" ybr1="1880.68" xtl2="337.20" ytl2="1639.10" xbl2="337.20" ybl2="1855.76" xtr2="164.49" ytr2="1639.23" xbr2="164.49" ybr2="1855.67" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="60" keyframe="1" outside="1" occluded="0" xtl1="307.40" ytl1="1578.23" xbl1="307.40" ybl1="1880.52" xtr1="548.90" ytr1="1577.96" xbr1="548.90" ybr1="1880.68" xtl2="337.20" ytl2="1639.10" xbl2="337.20" ybl2="1855.76" xtr2="164.49" ytr2="1639.23" xbr2="164.49" ybr2="1855.67" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="60" label="truck_cuboid" source="manual">
+    <cuboid frame="60" keyframe="1" outside="0" occluded="0" xtl1="311.72" ytl1="1575.76" xbl1="311.72" ybl1="1884.22" xtr1="558.76" ytr1="1575.49" xbr1="558.76" ybr1="1884.38" xtl2="339.51" ytl2="1638.33" xbl2="339.51" ybl2="1858.74" xtr2="163.38" ytr2="1638.46" xbr2="163.38" ybr2="1858.65" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="61" keyframe="1" outside="1" occluded="0" xtl1="311.72" ytl1="1575.76" xbl1="311.72" ybl1="1884.22" xtr1="558.76" ytr1="1575.49" xbr1="558.76" ybr1="1884.38" xtl2="339.51" ytl2="1638.33" xbl2="339.51" ybl2="1858.74" xtr2="163.38" ytr2="1638.46" xbr2="163.38" ybr2="1858.65" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="61" label="truck_cuboid" source="manual">
+    <cuboid frame="61" keyframe="1" outside="0" occluded="0" xtl1="315.41" ytl1="1574.11" xbl1="315.41" ybl1="1888.06" xtr1="565.54" ytr1="1573.83" xbr1="565.54" ybr1="1888.23" xtl2="341.99" ytl2="1639.07" xbl2="341.99" ybl2="1862.72" xtr2="164.21" ytr2="1639.20" xbr2="164.21" ybr2="1862.63" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="62" keyframe="1" outside="1" occluded="0" xtl1="315.41" ytl1="1574.11" xbl1="315.41" ybl1="1888.06" xtr1="565.54" ytr1="1573.83" xbr1="565.54" ybr1="1888.23" xtl2="341.99" ytl2="1639.07" xbl2="341.99" ybl2="1862.72" xtr2="164.21" ytr2="1639.20" xbr2="164.21" ybr2="1862.63" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="62" label="truck_cuboid" source="manual">
+    <cuboid frame="62" keyframe="1" outside="0" occluded="0" xtl1="318.38" ytl1="1574.11" xbl1="318.38" ybl1="1891.63" xtr1="576.33" ytr1="1573.82" xbr1="576.33" ybr1="1891.81" xtl2="346.96" ytl2="1639.93" xbl2="346.96" ybl2="1865.39" xtr2="164.23" ytr2="1640.07" xbr2="164.23" ybr2="1865.29" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="63" keyframe="1" outside="1" occluded="0" xtl1="318.38" ytl1="1574.11" xbl1="318.38" ybl1="1891.63" xtr1="576.33" ytr1="1573.82" xbr1="576.33" ybr1="1891.81" xtl2="346.96" ytl2="1639.93" xbl2="346.96" ybl2="1865.39" xtr2="164.23" ytr2="1640.07" xbr2="164.23" ybr2="1865.29" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="63" label="truck_cuboid" source="manual">
+    <cuboid frame="63" keyframe="1" outside="0" occluded="0" xtl1="320.52" ytl1="1569.83" xbl1="320.52" ybl1="1895.19" xtr1="584.89" ytr1="1569.53" xbr1="584.89" ybr1="1895.38" xtl2="346.01" ytl2="1640.82" xbl2="346.01" ybl2="1869.33" xtr2="160.79" ytr2="1640.96" xbr2="160.79" ybr2="1869.23" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="64" keyframe="1" outside="1" occluded="0" xtl1="320.52" ytl1="1569.83" xbl1="320.52" ybl1="1895.19" xtr1="584.89" ytr1="1569.53" xbr1="584.89" ybr1="1895.38" xtl2="346.01" ytl2="1640.82" xbl2="346.01" ybl2="1869.33" xtr2="160.79" ytr2="1640.96" xbr2="160.79" ybr2="1869.23" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="64" label="truck_cuboid" source="manual">
+    <cuboid frame="64" keyframe="1" outside="0" occluded="0" xtl1="325.51" ytl1="1569.11" xbl1="325.51" ybl1="1899.47" xtr1="594.87" ytr1="1568.80" xbr1="594.87" ybr1="1899.67" xtl2="350.18" ytl2="1642.03" xbl2="350.18" ybl2="1873.04" xtr2="162.29" ytr2="1642.17" xbr2="162.29" ybr2="1872.93" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="65" keyframe="1" outside="1" occluded="0" xtl1="325.51" ytl1="1569.11" xbl1="325.51" ybl1="1899.47" xtr1="594.87" ytr1="1568.80" xbr1="594.87" ybr1="1899.67" xtl2="350.18" ytl2="1642.03" xbl2="350.18" ybl2="1873.04" xtr2="162.29" ytr2="1642.17" xbr2="162.29" ybr2="1872.93" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="65" label="truck_cuboid" source="manual">
+    <cuboid frame="65" keyframe="1" outside="0" occluded="0" xtl1="325.51" ytl1="1563.95" xbl1="325.51" ybl1="1903.74" xtr1="604.85" ytr1="1563.61" xbr1="604.85" ybr1="1903.96" xtl2="350.70" ytl2="1642.02" xbl2="350.70" ybl2="1876.15" xtr2="158.72" ytr2="1642.16" xbr2="158.72" ybr2="1876.03" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="66" keyframe="1" outside="1" occluded="0" xtl1="325.51" ytl1="1563.95" xbl1="325.51" ybl1="1903.74" xtr1="604.85" ytr1="1563.61" xbr1="604.85" ybr1="1903.96" xtl2="350.70" ytl2="1642.02" xbl2="350.70" ybl2="1876.15" xtr2="158.72" ytr2="1642.16" xbr2="158.72" ybr2="1876.03" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="66" label="truck_cuboid" source="manual">
+    <cuboid frame="66" keyframe="1" outside="0" occluded="0" xtl1="330.50" ytl1="1563.41" xbl1="330.50" ybl1="1908.73" xtr1="611.98" ytr1="1563.07" xbr1="611.98" ybr1="1908.96" xtl2="346.24" ytl2="1645.08" xbl2="346.24" ybl2="1880.92" xtr2="154.51" ytr2="1645.22" xbr2="154.51" ybr2="1880.80" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="67" keyframe="1" outside="1" occluded="0" xtl1="330.50" ytl1="1563.41" xbl1="330.50" ybl1="1908.73" xtr1="611.98" ytr1="1563.07" xbr1="611.98" ybr1="1908.96" xtl2="346.24" ytl2="1645.08" xbl2="346.24" ybl2="1880.92" xtr2="154.51" ytr2="1645.22" xbr2="154.51" ybr2="1880.80" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="67" label="truck_cuboid" source="manual">
+    <cuboid frame="67" keyframe="1" outside="0" occluded="0" xtl1="333.35" ytl1="1557.71" xbl1="333.35" ybl1="1913.26" xtr1="623.39" ytr1="1557.35" xbr1="623.39" ybr1="1913.50" xtl2="350.99" ytl2="1640.80" xbl2="350.99" ybl2="1885.90" xtr2="151.59" ytr2="1640.95" xbr2="151.59" ybr2="1885.76" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="68" keyframe="1" outside="1" occluded="0" xtl1="333.35" ytl1="1557.71" xbl1="333.35" ybl1="1913.26" xtr1="623.39" ytr1="1557.35" xbr1="623.39" ybr1="1913.50" xtl2="350.99" ytl2="1640.80" xbl2="350.99" ybl2="1885.90" xtr2="151.59" ytr2="1640.95" xbr2="151.59" ybr2="1885.76" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="68" label="truck_cuboid" source="manual">
+    <cuboid frame="68" keyframe="1" outside="0" occluded="0" xtl1="334.90" ytl1="1556.53" xbl1="334.90" ybl1="1915.82" xtr1="632.99" ytr1="1556.16" xbr1="632.99" ybr1="1916.08" xtl2="348.25" ytl2="1646.20" xbl2="348.25" ybl2="1890.93" xtr2="145.77" ytr2="1646.35" xbr2="145.77" ybr2="1890.79" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="69" keyframe="1" outside="1" occluded="0" xtl1="334.90" ytl1="1556.53" xbl1="334.90" ybl1="1915.82" xtr1="632.99" ytr1="1556.16" xbr1="632.99" ybr1="1916.08" xtl2="348.25" ytl2="1646.20" xbl2="348.25" ybl2="1890.93" xtr2="145.77" ytr2="1646.35" xbr2="145.77" ybr2="1890.79" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="69" label="truck_cuboid" source="manual">
+    <cuboid frame="69" keyframe="1" outside="0" occluded="0" xtl1="343.15" ytl1="1555.70" xbl1="343.15" ybl1="1923.25" xtr1="644.54" ytr1="1555.32" xbr1="644.54" ybr1="1923.51" xtl2="349.37" ytl2="1646.06" xbl2="349.37" ybl2="1895.79" xtr2="145.18" ytr2="1646.20" xbr2="145.18" ybr2="1895.64" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="70" keyframe="1" outside="1" occluded="0" xtl1="343.15" ytl1="1555.70" xbl1="343.15" ybl1="1923.25" xtr1="644.54" ytr1="1555.32" xbr1="644.54" ybr1="1923.51" xtl2="349.37" ytl2="1646.06" xbl2="349.37" ybl2="1895.79" xtr2="145.18" ytr2="1646.20" xbr2="145.18" ybr2="1895.64" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="70" label="truck_cuboid" source="manual">
+    <cuboid frame="70" keyframe="1" outside="0" occluded="0" xtl1="343.15" ytl1="1548.28" xbl1="343.15" ybl1="1929.01" xtr1="653.62" ytr1="1547.88" xbr1="653.62" ybr1="1929.30" xtl2="344.01" ytl2="1645.37" xbl2="344.01" ybl2="1900.09" xtr2="136.93" ytr2="1645.52" xbr2="136.93" ybr2="1899.93" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="71" keyframe="1" outside="1" occluded="0" xtl1="343.15" ytl1="1548.28" xbl1="343.15" ybl1="1929.01" xtr1="653.62" ytr1="1547.88" xbr1="653.62" ybr1="1929.30" xtl2="344.01" ytl2="1645.37" xbl2="344.01" ybl2="1900.09" xtr2="136.93" ytr2="1645.52" xbr2="136.93" ybr2="1899.93" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="71" label="truck_cuboid" source="manual">
+    <cuboid frame="71" keyframe="1" outside="0" occluded="0" xtl1="351.40" ytl1="1542.49" xbl1="351.40" ybl1="1933.79" xtr1="661.61" ytr1="1542.08" xbr1="661.61" ybr1="1934.08" xtl2="338.99" ytl2="1645.04" xbl2="338.99" ybl2="1903.14" xtr2="135.00" ytr2="1645.18" xbr2="135.00" ybr2="1902.98" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="72" keyframe="1" outside="1" occluded="0" xtl1="351.40" ytl1="1542.49" xbl1="351.40" ybl1="1933.79" xtr1="661.61" ytr1="1542.08" xbr1="661.61" ybr1="1934.08" xtl2="338.99" ytl2="1645.04" xbl2="338.99" ybl2="1903.14" xtr2="135.00" ytr2="1645.18" xbr2="135.00" ybr2="1902.98" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="72" label="truck_cuboid" source="manual">
+    <cuboid frame="72" keyframe="1" outside="0" occluded="0" xtl1="355.56" ytl1="1539.68" xbl1="355.56" ybl1="1939.52" xtr1="672.71" ytr1="1539.26" xbr1="672.71" ybr1="1939.83" xtl2="325.27" ytl2="1651.60" xbl2="325.27" ybl2="1908.31" xtr2="122.30" ytr2="1651.74" xbr2="122.30" ybr2="1908.14" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="73" keyframe="1" outside="1" occluded="0" xtl1="355.56" ytl1="1539.68" xbl1="355.56" ybl1="1939.52" xtr1="672.71" ytr1="1539.26" xbr1="672.71" ybr1="1939.83" xtl2="325.27" ytl2="1651.60" xbl2="325.27" ybl2="1908.31" xtr2="122.30" ytr2="1651.74" xbr2="122.30" ybr2="1908.14" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="73" label="truck_cuboid" source="manual">
+    <cuboid frame="73" keyframe="1" outside="0" occluded="0" xtl1="352.69" ytl1="1539.68" xbl1="352.69" ybl1="1946.19" xtr1="686.07" ytr1="1539.24" xbr1="686.07" ybr1="1946.53" xtl2="337.90" ytl2="1648.95" xbl2="337.90" ybl2="1916.22" xtr2="119.43" ytr2="1649.10" xbr2="119.43" ybr2="1916.03" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="74" keyframe="1" outside="1" occluded="0" xtl1="352.69" ytl1="1539.68" xbl1="352.69" ybl1="1946.19" xtr1="686.07" ytr1="1539.24" xbr1="686.07" ybr1="1946.53" xtl2="337.90" ytl2="1648.95" xbl2="337.90" ybl2="1916.22" xtr2="119.43" ytr2="1649.10" xbr2="119.43" ybr2="1916.03" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="74" label="truck_cuboid" source="manual">
+    <cuboid frame="74" keyframe="1" outside="0" occluded="0" xtl1="350.79" ytl1="1534.91" xbl1="350.79" ybl1="1953.82" xtr1="695.62" ytr1="1534.44" xbr1="695.62" ybr1="1954.18" xtl2="329.09" ytl2="1651.59" xbl2="329.09" ybl2="1920.34" xtr2="108.61" ytr2="1651.75" xbr2="108.61" ybr2="1920.14" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="75" keyframe="1" outside="1" occluded="0" xtl1="350.79" ytl1="1534.91" xbl1="350.79" ybl1="1953.82" xtr1="695.62" ytr1="1534.44" xbr1="695.62" ybr1="1954.18" xtl2="329.09" ytl2="1651.59" xbl2="329.09" ybl2="1920.34" xtr2="108.61" ytr2="1651.75" xbr2="108.61" ybr2="1920.14" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="75" label="truck_cuboid" source="manual">
+    <cuboid frame="75" keyframe="1" outside="0" occluded="0" xtl1="353.09" ytl1="1529.51" xbl1="353.09" ybl1="1957.71" xtr1="708.84" ytr1="1529.02" xbr1="708.84" ybr1="1958.10" xtl2="323.11" ytl2="1649.56" xbl2="323.11" ybl2="1923.81" xtr2="96.07" ytr2="1649.71" xbr2="96.07" ybr2="1923.61" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="76" keyframe="1" outside="1" occluded="0" xtl1="353.09" ytl1="1529.51" xbl1="353.09" ybl1="1957.71" xtr1="708.84" ytr1="1529.02" xbr1="708.84" ybr1="1958.10" xtl2="323.11" ytl2="1649.56" xbl2="323.11" ybl2="1923.81" xtr2="96.07" ytr2="1649.71" xbr2="96.07" ybr2="1923.61" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="76" label="truck_cuboid" source="manual">
+    <cuboid frame="76" keyframe="1" outside="0" occluded="0" xtl1="353.09" ytl1="1528.40" xbl1="353.09" ybl1="1963.23" xtr1="716.57" ytr1="1527.90" xbr1="716.57" ybr1="1963.63" xtl2="316.87" ytl2="1653.65" xbl2="316.87" ybl2="1930.70" xtr2="86.13" ytr2="1653.81" xbr2="86.13" ybr2="1930.48" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="77" keyframe="1" outside="1" occluded="0" xtl1="353.09" ytl1="1528.40" xbl1="353.09" ybl1="1963.23" xtr1="716.57" ytr1="1527.90" xbr1="716.57" ybr1="1963.63" xtl2="316.87" ytl2="1653.65" xbl2="316.87" ybl2="1930.70" xtr2="86.13" ytr2="1653.81" xbr2="86.13" ybr2="1930.48" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="77" label="truck_cuboid" source="manual">
+    <cuboid frame="77" keyframe="1" outside="0" occluded="0" xtl1="351.98" ytl1="1521.79" xbl1="351.98" ybl1="1973.15" xtr1="728.72" ytr1="1521.25" xbr1="728.72" ybr1="1973.60" xtl2="312.62" ytl2="1650.35" xbl2="312.62" ybl2="1935.58" xtr2="75.45" ytr2="1650.51" xbr2="75.45" ybr2="1935.35" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="78" keyframe="1" outside="1" occluded="0" xtl1="351.98" ytl1="1521.79" xbl1="351.98" ybl1="1973.15" xtr1="728.72" ytr1="1521.25" xbr1="728.72" ybr1="1973.60" xtl2="312.62" ytl2="1650.35" xbl2="312.62" ybl2="1935.58" xtr2="75.45" ytr2="1650.51" xbr2="75.45" ybr2="1935.35" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="78" label="truck_cuboid" source="manual">
+    <cuboid frame="78" keyframe="1" outside="0" occluded="0" xtl1="347.57" ytl1="1520.69" xbl1="347.57" ybl1="1978.66" xtr1="738.66" ytr1="1520.12" xbr1="738.66" ybr1="1979.14" xtl2="303.91" ytl2="1653.72" xbl2="303.91" ybl2="1942.66" xtr2="58.14" ytr2="1653.89" xbr2="58.14" ybr2="1942.41" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="79" keyframe="1" outside="1" occluded="0" xtl1="347.57" ytl1="1520.69" xbl1="347.57" ybl1="1978.66" xtr1="738.66" ytr1="1520.12" xbr1="738.66" ybr1="1979.14" xtl2="303.91" ytl2="1653.72" xbl2="303.91" ybl2="1942.66" xtr2="58.14" ytr2="1653.89" xbr2="58.14" ybr2="1942.41" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="79" label="truck_cuboid" source="manual">
+    <cuboid frame="79" keyframe="1" outside="0" occluded="0" xtl1="347.57" ytl1="1509.13" xbl1="347.57" ybl1="1988.59" xtr1="755.23" ytr1="1508.52" xbr1="755.23" ybr1="1989.10" xtl2="285.27" ytl2="1654.26" xbl2="285.27" ybl2="1947.81" xtr2="36.71" ytr2="1654.43" xbr2="36.71" ybr2="1947.55" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="80" keyframe="1" outside="1" occluded="0" xtl1="347.57" ytl1="1509.13" xbl1="347.57" ybl1="1988.59" xtr1="755.23" ytr1="1508.52" xbr1="755.23" ybr1="1989.10" xtl2="285.27" ytl2="1654.26" xbl2="285.27" ybl2="1947.81" xtr2="36.71" ytr2="1654.43" xbr2="36.71" ybr2="1947.55" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="80" label="truck_cuboid" source="manual">
+    <cuboid frame="80" keyframe="1" outside="0" occluded="0" xtl1="346.46" ytl1="1505.46" xbl1="346.46" ybl1="1995.39" xtr1="760.75" ytr1="1504.82" xbr1="760.75" ybr1="1995.93" xtl2="276.10" ytl2="1654.00" xbl2="276.10" ybl2="1953.26" xtr2="24.12" ytr2="1654.17" xbr2="24.12" ybr2="1952.99" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="81" keyframe="1" outside="1" occluded="0" xtl1="346.46" ytl1="1505.46" xbl1="346.46" ybl1="1995.39" xtr1="760.75" ytr1="1504.82" xbr1="760.75" ybr1="1995.93" xtl2="276.10" ytl2="1654.00" xbl2="276.10" ybl2="1953.26" xtr2="24.12" ytr2="1654.17" xbr2="24.12" ybr2="1952.99" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="81" label="truck_cuboid" source="manual">
+    <cuboid frame="81" keyframe="1" outside="0" occluded="0" xtl1="343.15" ytl1="1495.95" xbl1="343.15" ybl1="2000.42" xtr1="771.19" ytr1="1495.27" xbr1="771.19" ybr1="2000.99" xtl2="268.69" ytl2="1651.20" xbl2="268.69" ybl2="1959.97" xtr2="7.85" ytr2="1651.38" xbr2="7.85" ybr2="1959.68" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="82" keyframe="1" outside="1" occluded="0" xtl1="343.15" ytl1="1495.95" xbl1="343.15" ybl1="2000.42" xtr1="771.19" ytr1="1495.27" xbr1="771.19" ybr1="2000.99" xtl2="268.69" ytl2="1651.20" xbl2="268.69" ybl2="1959.97" xtr2="7.85" ytr2="1651.38" xbr2="7.85" ybr2="1959.68" z_order="0">
+      <attribute name="Truncated">false</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="82" label="truck_cuboid" source="manual">
+    <cuboid frame="82" keyframe="1" outside="0" occluded="0" xtl1="343.15" ytl1="1487.02" xbl1="343.15" ybl1="2015.80" xtr1="783.97" ytr1="1486.29" xbr1="783.97" ybr1="2016.43" xtl2="263.78" ytl2="1645.70" xbl2="263.78" ybl2="1966.41" xtr2="-2.37" ytr2="1645.89" xbr2="-2.37" ybr2="1966.11" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="83" keyframe="1" outside="1" occluded="0" xtl1="343.15" ytl1="1487.02" xbl1="343.15" ybl1="2015.80" xtr1="783.97" ytr1="1486.29" xbr1="783.97" ybr1="2016.43" xtl2="263.78" ytl2="1645.70" xbl2="263.78" ybl2="1966.41" xtr2="-2.37" ytr2="1645.89" xbr2="-2.37" ybr2="1966.11" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="83" label="truck_cuboid" source="manual">
+    <cuboid frame="83" keyframe="1" outside="0" occluded="0" xtl1="343.15" ytl1="1474.26" xbl1="343.15" ybl1="2020.91" xtr1="792.91" ytr1="1473.49" xbr1="792.91" ybr1="2021.56" xtl2="282.07" ytl2="1632.19" xbl2="282.07" ybl2="1974.81" xtr2="1.46" ytr2="1632.42" xbr2="1.46" ybr2="1974.47" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="84" keyframe="1" outside="1" occluded="0" xtl1="343.15" ytl1="1474.26" xbl1="343.15" ybl1="2020.91" xtr1="792.91" ytr1="1473.49" xbr1="792.91" ybr1="2021.56" xtl2="282.07" ytl2="1632.19" xbl2="282.07" ybl2="1974.81" xtr2="1.46" ytr2="1632.42" xbr2="1.46" ybr2="1974.47" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="84" label="truck_cuboid" source="manual">
+    <cuboid frame="84" keyframe="1" outside="0" occluded="0" xtl1="327.81" ytl1="1469.17" xbl1="327.81" ybl1="2033.65" xtr1="803.14" ytr1="1468.34" xbr1="803.14" ybr1="2034.37" xtl2="306.74" ytl2="1619.32" xbl2="306.74" ybl2="1982.02" xtr2="2.73" ytr2="1619.58" xbr2="2.73" ybr2="1981.65" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="85" keyframe="1" outside="1" occluded="0" xtl1="327.81" ytl1="1469.17" xbl1="327.81" ybl1="2033.65" xtr1="803.14" ytr1="1468.34" xbr1="803.14" ybr1="2034.37" xtl2="306.74" ytl2="1619.32" xbl2="306.74" ybl2="1982.02" xtr2="2.73" ytr2="1619.58" xbr2="2.73" ybr2="1981.65" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="85" label="truck_cuboid" source="manual">
+    <cuboid frame="85" keyframe="1" outside="0" occluded="0" xtl1="321.42" ytl1="1455.77" xbl1="321.42" ybl1="2040.02" xtr1="814.64" ytr1="1454.87" xbr1="814.64" ybr1="2040.79" xtl2="320.30" ytl2="1605.99" xbl2="320.30" ybl2="1989.02" xtr2="-1.54" ytr2="1606.29" xbr2="-1.54" ybr2="1988.62" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="86" keyframe="1" outside="1" occluded="0" xtl1="321.42" ytl1="1455.77" xbl1="321.42" ybl1="2040.02" xtr1="814.64" ytr1="1454.87" xbr1="814.64" ybr1="2040.79" xtl2="320.30" ytl2="1605.99" xbl2="320.30" ybl2="1989.02" xtr2="-1.54" ytr2="1606.29" xbr2="-1.54" ybr2="1988.62" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="86" label="truck_cuboid" source="manual">
+    <cuboid frame="86" keyframe="1" outside="0" occluded="0" xtl1="321.42" ytl1="1440.46" xbl1="321.42" ybl1="2051.49" xtr1="831.25" ytr1="1439.49" xbr1="831.25" ybr1="2052.32" xtl2="334.13" ytl2="1588.42" xbl2="334.13" ybl2="1994.20" xtr2="-2.81" ytr2="1588.78" xbr2="-2.81" ybr2="1993.76" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="87" keyframe="1" outside="1" occluded="0" xtl1="321.42" ytl1="1440.46" xbl1="321.42" ybl1="2051.49" xtr1="831.25" ytr1="1439.49" xbr1="831.25" ybr1="2052.32" xtl2="334.13" ytl2="1588.42" xbl2="334.13" ybl2="1994.20" xtr2="-2.81" ytr2="1588.78" xbr2="-2.81" ybr2="1993.76" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="87" label="truck_cuboid" source="manual">
+    <cuboid frame="87" keyframe="1" outside="0" occluded="0" xtl1="305.16" ytl1="1434.83" xbl1="305.16" ybl1="2060.66" xtr1="844.21" ytr1="1433.78" xbr1="844.21" ybr1="2061.57" xtl2="376.38" ytl2="1569.34" xbl2="376.38" ybl2="2005.89" xtr2="2.19" ytr2="1569.77" xbr2="2.19" ybr2="2005.38" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="88" keyframe="1" outside="1" occluded="0" xtl1="305.16" ytl1="1434.83" xbl1="305.16" ybl1="2060.66" xtr1="844.21" ytr1="1433.78" xbr1="844.21" ybr1="2061.57" xtl2="376.38" ytl2="1569.34" xbl2="376.38" ybl2="2005.89" xtr2="2.19" ytr2="1569.77" xbr2="2.19" ybr2="2005.38" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="88" label="truck_cuboid" source="manual">
+    <cuboid frame="88" keyframe="1" outside="0" occluded="0" xtl1="297.77" ytl1="1421.86" xbl1="297.77" ybl1="2072.43" xtr1="857.52" ytr1="1420.73" xbr1="857.52" ybr1="2073.41" xtl2="402.66" ytl2="1549.25" xbl2="402.66" ybl2="2018.69" xtr2="0.75" ytr2="1549.77" xbr2="0.75" ybr2="2018.11" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="89" keyframe="1" outside="1" occluded="0" xtl1="297.77" ytl1="1421.86" xbl1="297.77" ybl1="2072.43" xtr1="857.52" ytr1="1420.73" xbr1="857.52" ybr1="2073.41" xtl2="402.66" ytl2="1549.25" xbl2="402.66" ybl2="2018.69" xtr2="0.75" ytr2="1549.77" xbr2="0.75" ybr2="2018.11" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="89" label="truck_cuboid" source="manual">
+    <cuboid frame="89" keyframe="1" outside="0" occluded="0" xtl1="288.92" ytl1="1402.88" xbl1="288.92" ybl1="2084.37" xtr1="876.23" ytr1="1401.63" xbr1="876.23" ybr1="2085.44" xtl2="431.93" ytl2="1527.26" xbl2="431.93" ybl2="2031.62" xtr2="-0.53" ytr2="1527.87" xbr2="-0.53" ybr2="2030.96" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="90" keyframe="1" outside="1" occluded="0" xtl1="288.92" ytl1="1402.88" xbl1="288.92" ybl1="2084.37" xtr1="876.23" ytr1="1401.63" xbr1="876.23" ybr1="2085.44" xtl2="431.93" ytl2="1527.26" xbl2="431.93" ybl2="2031.62" xtr2="-0.53" ytr2="1527.87" xbr2="-0.53" ybr2="2030.96" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="90" label="truck_cuboid" source="manual">
+    <cuboid frame="90" keyframe="1" outside="0" occluded="0" xtl1="280.36" ytl1="1381.48" xbl1="280.36" ybl1="2096.31" xtr1="891.63" ytr1="1380.10" xbr1="891.63" ybr1="2097.46" xtl2="464.31" ytl2="1502.32" xbl2="464.31" ybl2="2045.24" xtr2="2.44" ytr2="1503.04" xbr2="2.44" ybr2="2044.51" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="91" keyframe="1" outside="1" occluded="0" xtl1="280.36" ytl1="1381.48" xbl1="280.36" ybl1="2096.31" xtr1="891.63" ytr1="1380.10" xbr1="891.63" ybr1="2097.46" xtl2="464.31" ytl2="1502.32" xbl2="464.31" ybl2="2045.24" xtr2="2.44" ytr2="1503.04" xbr2="2.44" ybr2="2044.51" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="91" label="truck_cuboid" source="manual">
+    <cuboid frame="91" keyframe="1" outside="0" occluded="0" xtl1="266.68" ytl1="1365.37" xbl1="266.68" ybl1="2109.94" xtr1="915.58" ytr1="1363.84" xbr1="915.58" ybr1="2111.22" xtl2="506.81" ytl2="1476.45" xbl2="506.81" ybl2="2058.70" xtr2="2.05" ytr2="1477.31" xbr2="2.05" ybr2="2057.86" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="92" keyframe="1" outside="1" occluded="0" xtl1="266.68" ytl1="1365.37" xbl1="266.68" ybl1="2109.94" xtr1="915.58" ytr1="1363.84" xbr1="915.58" ybr1="2111.22" xtl2="506.81" ytl2="1476.45" xbl2="506.81" ybl2="2058.70" xtr2="2.05" ytr2="1477.31" xbr2="2.05" ybr2="2057.86" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="92" label="truck_cuboid" source="manual">
+    <cuboid frame="92" keyframe="1" outside="0" occluded="0" xtl1="259.83" ytl1="1334.65" xbl1="259.83" ybl1="2124.87" xtr1="934.40" ytr1="1332.95" xbr1="934.40" ybr1="2126.26" xtl2="527.19" ytl2="1448.41" xbl2="527.19" ybl2="2070.18" xtr2="-0.71" ytr2="1449.39" xbr2="-0.71" ybr2="2069.26" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="93" keyframe="1" outside="1" occluded="0" xtl1="259.83" ytl1="1334.65" xbl1="259.83" ybl1="2124.87" xtr1="934.40" ytr1="1332.95" xbr1="934.40" ybr1="2126.26" xtl2="527.19" ytl2="1448.41" xbl2="527.19" ybl2="2070.18" xtr2="-0.71" ytr2="1449.39" xbr2="-0.71" ybr2="2069.26" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="93" label="truck_cuboid" source="manual">
+    <cuboid frame="93" keyframe="1" outside="0" occluded="0" xtl1="253.25" ytl1="1332.61" xbl1="253.25" ybl1="2140.35" xtr1="959.11" ytr1="1330.82" xbr1="959.11" ybr1="2141.86" xtl2="576.45" ytl2="1415.02" xbl2="576.45" ybl2="2080.92" xtr2="-2.24" ytr2="1416.21" xbr2="-2.24" ybr2="2079.88" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="94" keyframe="1" outside="1" occluded="0" xtl1="253.25" ytl1="1332.61" xbl1="253.25" ybl1="2140.35" xtr1="959.11" ytr1="1330.82" xbr1="959.11" ybr1="2141.86" xtl2="576.45" ytl2="1415.02" xbl2="576.45" ybl2="2080.92" xtr2="-2.24" ytr2="1416.21" xbr2="-2.24" ybr2="2079.88" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="94" label="truck_cuboid" source="manual">
+    <cuboid frame="94" keyframe="1" outside="0" occluded="0" xtl1="243.51" ytl1="1332.81" xbl1="243.51" ybl1="2153.28" xtr1="993.20" ytr1="1330.91" xbr1="993.20" ybr1="2154.94" xtl2="654.60" ytl2="1382.24" xbl2="654.60" ybl2="2101.50" xtr2="1.13" ytr2="1383.70" xbr2="1.13" ybr2="2100.25" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="95" keyframe="1" outside="1" occluded="0" xtl1="243.51" ytl1="1332.81" xbl1="243.51" ybl1="2153.28" xtr1="993.20" ytr1="1330.91" xbr1="993.20" ybr1="2154.94" xtl2="654.60" ytl2="1382.24" xbl2="654.60" ybl2="2101.50" xtr2="1.13" ytr2="1383.70" xbr2="1.13" ybr2="2100.25" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="95" label="truck_cuboid" source="manual">
+    <cuboid frame="95" keyframe="1" outside="0" occluded="0" xtl1="242.90" ytl1="1323.36" xbl1="242.90" ybl1="2171.07" xtr1="1024.05" ytr1="1321.34" xbr1="1024.05" ybr1="2172.88" xtl2="698.34" ytl2="1347.54" xbl2="698.34" ybl2="2107.03" xtr2="2.61" ytr2="1349.24" xbr2="2.61" ybr2="2105.68" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="96" keyframe="1" outside="1" occluded="0" xtl1="242.90" ytl1="1323.36" xbl1="242.90" ybl1="2171.07" xtr1="1024.05" ytr1="1321.34" xbr1="1024.05" ybr1="2172.88" xtl2="698.34" ytl2="1347.54" xbl2="698.34" ybl2="2107.03" xtr2="2.61" ytr2="1349.24" xbr2="2.61" ybr2="2105.68" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="96" label="truck_cuboid" source="manual">
+    <cuboid frame="96" keyframe="1" outside="0" occluded="0" xtl1="240.66" ytl1="1326.62" xbl1="240.66" ybl1="2187.91" xtr1="1077.59" ytr1="1324.49" xbr1="1077.59" ybr1="2189.93" xtl2="780.28" ytl2="1316.05" xbl2="780.28" ybl2="2119.35" xtr2="4.50" ytr2="1318.06" xbr2="4.50" ybr2="2117.79" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="97" keyframe="1" outside="1" occluded="0" xtl1="240.66" ytl1="1326.62" xbl1="240.66" ybl1="2187.91" xtr1="1077.59" ytr1="1324.49" xbr1="1077.59" ybr1="2189.93" xtl2="780.28" ytl2="1316.05" xbl2="780.28" ybl2="2119.35" xtr2="4.50" ytr2="1318.06" xbr2="4.50" ybr2="2117.79" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="97" label="truck_cuboid" source="manual">
+    <cuboid frame="97" keyframe="1" outside="0" occluded="0" xtl1="240.66" ytl1="1271.66" xbl1="240.66" ybl1="2199.40" xtr1="1122.67" ytr1="1269.11" xbr1="1122.67" ybr1="2201.59" xtl2="796.55" ytl2="1291.82" xbl2="796.55" ybl2="2134.94" xtr2="0.17" ytr2="1294.02" xbr2="0.17" ybr2="2133.26" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="98" keyframe="1" outside="1" occluded="0" xtl1="240.66" ytl1="1271.66" xbl1="240.66" ybl1="2199.40" xtr1="1122.67" ytr1="1269.11" xbr1="1122.67" ybr1="2201.59" xtl2="796.55" ytl2="1291.82" xbl2="796.55" ybl2="2134.94" xtr2="0.17" ytr2="1294.02" xbr2="0.17" ybr2="2133.26" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="98" label="truck_cuboid" source="manual">
+    <cuboid frame="98" keyframe="1" outside="0" occluded="0" xtl1="253.81" ytl1="1250.27" xbl1="253.81" ybl1="2227.98" xtr1="1184.65" ytr1="1247.47" xbr1="1184.65" ybr1="2230.45" xtl2="849.20" ytl2="1267.24" xbl2="849.20" ybl2="2162.00" xtr2="3.13" ytr2="1269.69" xbr2="3.13" ybr2="2160.08" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="99" keyframe="1" outside="1" occluded="0" xtl1="253.81" ytl1="1250.27" xbl1="253.81" ybl1="2227.98" xtr1="1184.65" ytr1="1247.47" xbr1="1184.65" ybr1="2230.45" xtl2="849.20" ytl2="1267.24" xbl2="849.20" ybl2="2162.00" xtr2="3.13" ytr2="1269.69" xbr2="3.13" ybr2="2160.08" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="99" label="truck_cuboid" source="manual">
+    <cuboid frame="99" keyframe="1" outside="0" occluded="0" xtl1="263.59" ytl1="1202.65" xbl1="263.59" ybl1="2253.03" xtr1="1254.66" ytr1="1199.40" xbr1="1254.66" ybr1="2255.81" xtl2="895.56" ytl2="1235.26" xbl2="895.56" ybl2="2190.33" xtr2="0.92" ytr2="1238.02" xbr2="0.92" ybr2="2188.16" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="100" keyframe="1" outside="1" occluded="0" xtl1="263.59" ytl1="1202.65" xbl1="263.59" ybl1="2253.03" xtr1="1254.66" ytr1="1199.40" xbr1="1254.66" ybr1="2255.81" xtl2="895.56" ytl2="1235.26" xbl2="895.56" ybl2="2190.33" xtr2="0.92" ytr2="1238.02" xbr2="0.92" ybr2="2188.16" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="100" label="truck_cuboid" source="manual">
+    <cuboid frame="100" keyframe="1" outside="0" occluded="0" xtl1="288.74" ytl1="1177.58" xbl1="288.74" ybl1="2273.11" xtr1="1340.15" ytr1="1173.98" xbr1="1340.15" ybr1="2276.17" xtl2="959.50" ytl2="1190.44" xbl2="959.50" ybl2="2192.92" xtr2="4.77" ytr2="1193.63" xbr2="4.77" ybr2="2190.59" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="101" keyframe="1" outside="1" occluded="0" xtl1="288.74" ytl1="1177.58" xbl1="288.74" ybl1="2273.11" xtr1="1340.15" ytr1="1173.98" xbr1="1340.15" ybr1="2276.17" xtl2="959.50" ytl2="1190.44" xbl2="959.50" ybl2="2192.92" xtr2="4.77" ytr2="1193.63" xbr2="4.77" ybr2="2190.59" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="101" label="truck_cuboid" source="manual">
+    <cuboid frame="101" keyframe="1" outside="0" occluded="0" xtl1="334.00" ytl1="1129.81" xbl1="334.00" ybl1="2308.32" xtr1="1433.19" ytr1="1125.78" xbr1="1433.19" ybr1="2311.74" xtl2="981.78" ytl2="1149.35" xbl2="981.78" ybl2="2211.42" xtr2="-0.69" ytr2="1152.83" xbr2="-0.69" ybr2="2208.91" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="102" keyframe="1" outside="1" occluded="0" xtl1="334.00" ytl1="1129.81" xbl1="334.00" ybl1="2308.32" xtr1="1433.19" ytr1="1125.78" xbr1="1433.19" ybr1="2311.74" xtl2="981.78" ytl2="1149.35" xbl2="981.78" ybl2="2211.42" xtr2="-0.69" ytr2="1152.83" xbr2="-0.69" ybr2="2208.91" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="102" label="truck_cuboid" source="manual">
+    <cuboid frame="102" keyframe="1" outside="0" occluded="0" xtl1="386.80" ytl1="1121.93" xbl1="386.80" ybl1="2341.04" xtr1="1551.37" ytr1="1117.56" xbr1="1551.37" ybr1="2344.89" xtl2="1089.07" ytl2="1095.62" xbl2="1089.07" ybl2="2253.42" xtr2="-7.02" ytr2="1099.88" xbr2="-7.02" ybr2="2250.37" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="103" keyframe="1" outside="1" occluded="0" xtl1="386.80" ytl1="1121.93" xbl1="386.80" ybl1="2341.04" xtr1="1551.37" ytr1="1117.56" xbr1="1551.37" ybr1="2344.89" xtl2="1089.07" ytl2="1095.62" xbl2="1089.07" ybl2="2253.42" xtr2="-7.02" ytr2="1099.88" xbr2="-7.02" ybr2="2250.37" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="103" label="truck_cuboid" source="manual">
+    <cuboid frame="103" keyframe="1" outside="0" occluded="0" xtl1="460.38" ytl1="1052.32" xbl1="460.38" ybl1="2369.28" xtr1="1680.54" ytr1="1047.26" xbr1="1680.54" ybr1="2373.52" xtl2="1093.73" ytl2="1070.25" xbl2="1093.73" ybl2="2261.50" xtr2="0.70" ytr2="1074.66" xbr2="0.70" ybr2="2258.41" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="104" keyframe="1" outside="1" occluded="0" xtl1="460.38" ytl1="1052.32" xbl1="460.38" ybl1="2369.28" xtr1="1680.54" ytr1="1047.26" xbr1="1680.54" ybr1="2373.52" xtl2="1093.73" ytl2="1070.25" xbl2="1093.73" ybl2="2261.50" xtr2="0.70" ytr2="1074.66" xbr2="0.70" ybr2="2258.41" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="104" label="truck_cuboid" source="manual">
+    <cuboid frame="104" keyframe="1" outside="0" occluded="0" xtl1="547.66" ytl1="1034.68" xbl1="547.66" ybl1="2418.78" xtr1="1831.82" ytr1="1029.22" xbr1="1831.82" ybr1="2423.59" xtl2="1173.86" ytl2="1012.42" xbl2="1173.86" ybl2="2283.14" xtr2="7.24" ytr2="1017.52" xbr2="7.24" ybr2="2279.69" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="105" keyframe="1" outside="1" occluded="0" xtl1="547.66" ytl1="1034.68" xbl1="547.66" ybl1="2418.78" xtr1="1831.82" ytr1="1029.22" xbr1="1831.82" ybr1="2423.59" xtl2="1173.86" ytl2="1012.42" xbl2="1173.86" ybl2="2283.14" xtr2="7.24" ytr2="1017.52" xbr2="7.24" ybr2="2279.69" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="105" label="truck_cuboid" source="manual">
+    <cuboid frame="105" keyframe="1" outside="0" occluded="0" xtl1="669.85" ytl1="928.16" xbl1="669.85" ybl1="2431.80" xtr1="2020.30" ytr1="921.66" xbr1="2020.30" ybr1="2436.96" xtl2="1166.03" ytl2="959.93" xbl2="1166.03" ybl2="2283.01" xtr2="-8.50" ytr2="965.35" xbr2="-8.50" ybr2="2279.53" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="106" keyframe="1" outside="1" occluded="0" xtl1="669.85" ytl1="928.16" xbl1="669.85" ybl1="2431.80" xtr1="2020.30" ytr1="921.66" xbr1="2020.30" ybr1="2436.96" xtl2="1166.03" ytl2="959.93" xbl2="1166.03" ybl2="2283.01" xtr2="-8.50" ytr2="965.35" xbr2="-8.50" ybr2="2279.53" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="106" label="truck_cuboid" source="manual">
+    <cuboid frame="106" keyframe="1" outside="0" occluded="0" xtl1="827.32" ytl1="877.00" xbl1="827.32" ybl1="2495.96" xtr1="2164.85" ytr1="870.11" xbr1="2164.85" ybr1="2501.56" xtl2="1140.87" ytl2="904.10" xbl2="1140.87" ybl2="2307.57" xtr2="-4.23" ytr2="909.82" xbr2="-4.23" ybr2="2304.02" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="107" keyframe="1" outside="1" occluded="0" xtl1="827.32" ytl1="877.00" xbl1="827.32" ybl1="2495.96" xtr1="2164.85" ytr1="870.11" xbr1="2164.85" ybr1="2501.56" xtl2="1140.87" ytl2="904.10" xbl2="1140.87" ybl2="2307.57" xtr2="-4.23" ytr2="909.82" xbr2="-4.23" ybr2="2304.02" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="107" label="truck_cuboid" source="manual">
+    <cuboid frame="107" keyframe="1" outside="0" occluded="0" xtl1="1015.82" ytl1="829.57" xbl1="1015.82" ybl1="2573.91" xtr1="2168.22" ytr1="823.32" xbr1="2168.22" ybr1="2579.26" xtl2="976.15" ytl2="852.44" xbl2="976.15" ybl2="2355.93" xtr2="-4.76" ytr2="857.63" xbr2="-4.76" ybr2="2352.61" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="108" keyframe="1" outside="1" occluded="0" xtl1="1015.82" ytl1="829.57" xbl1="1015.82" ybl1="2573.91" xtr1="2168.22" ytr1="823.32" xbr1="2168.22" ybr1="2579.26" xtl2="976.15" ytl2="852.44" xbl2="976.15" ybl2="2355.93" xtr2="-4.76" ytr2="857.63" xbr2="-4.76" ybr2="2352.61" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="108" label="truck_cuboid" source="manual">
+    <cuboid frame="108" keyframe="1" outside="0" occluded="0" xtl1="1360.69" ytl1="841.42" xbl1="1360.69" ybl1="2590.04" xtr1="2172.58" ytr1="937.28" xbr1="2172.58" ybr1="2699.91" xtl2="783.52" ytl2="830.73" xbl2="783.52" ybl2="2535.81" xtr2="8.62" ytr2="738.79" xbr2="8.62" ybr2="2430.76" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="109" keyframe="1" outside="1" occluded="0" xtl1="1360.69" ytl1="841.42" xbl1="1360.69" ybl1="2590.04" xtr1="2172.58" ytr1="937.28" xbr1="2172.58" ybr1="2699.91" xtl2="783.52" ytl2="830.73" xbl2="783.52" ybl2="2535.81" xtr2="8.62" ytr2="738.79" xbr2="8.62" ybr2="2430.76" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="109" label="truck_cuboid" source="manual">
+    <cuboid frame="109" keyframe="1" outside="0" occluded="0" xtl1="1555.01" ytl1="796.30" xbl1="1555.01" ybl1="2527.40" xtr1="2167.74" ytr1="997.15" xbr1="2167.74" ybr1="2724.17" xtl2="595.17" ytl2="879.69" xbl2="595.17" ybl2="2548.93" xtr2="-0.60" ytr2="685.30" xbr2="-0.60" ybr2="2358.35" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="110" keyframe="1" outside="1" occluded="0" xtl1="1555.01" ytl1="796.30" xbl1="1555.01" ybl1="2527.40" xtr1="2167.74" ytr1="997.15" xbr1="2167.74" ybr1="2724.17" xtl2="595.17" ytl2="879.69" xbl2="595.17" ybl2="2548.93" xtr2="-0.60" ytr2="685.30" xbr2="-0.60" ybr2="2358.35" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="110" label="truck_cuboid" source="manual">
+    <cuboid frame="110" keyframe="1" outside="0" occluded="0" xtl1="1878.98" ytl1="703.26" xbl1="1878.98" ybl1="2689.30" xtr1="2163.95" ytr1="701.52" xbr1="2163.95" ybr1="2690.80" xtl2="245.19" ytl2="624.07" xbl2="245.19" ybl2="2398.94" xtr2="-6.31" ytr2="625.74" xbr2="-6.31" ybr2="2398.02" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="111" keyframe="1" outside="1" occluded="0" xtl1="1878.98" ytl1="703.26" xbl1="1878.98" ybl1="2689.30" xtr1="2163.95" ytr1="701.52" xbr1="2163.95" ybr1="2690.80" xtl2="245.19" ytl2="624.07" xbl2="245.19" ybl2="2398.94" xtr2="-6.31" ytr2="625.74" xbr2="-6.31" ybr2="2398.02" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="111" label="truck_cuboid" source="manual">
+    <cuboid frame="111" keyframe="1" outside="0" occluded="0" xtl1="2165.75" ytl1="480.33" xbl1="2165.75" ybl1="2747.87" xtr1="2174.38" ytr1="480.26" xbr1="2174.38" ybr1="2747.92" xtl2="11.77" ytl2="568.69" xbl2="11.77" ybl2="2425.72" xtr2="4.79" ytr2="568.74" xbr2="4.79" ybr2="2425.69" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="112" keyframe="1" outside="1" occluded="0" xtl1="2165.75" ytl1="480.33" xbl1="2165.75" ybl1="2747.87" xtr1="2174.38" ytr1="480.26" xbr1="2174.38" ybr1="2747.92" xtl2="11.77" ytl2="568.69" xbl2="11.77" ybl2="2425.72" xtr2="4.79" ytr2="568.74" xbr2="4.79" ybr2="2425.69" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="112" label="truck_cuboid" source="manual">
+    <cuboid frame="112" keyframe="1" outside="0" occluded="0" xtl1="2176.18" ytl1="409.73" xbl1="2176.18" ybl1="2779.24" xtr1="2179.60" ytr1="409.71" xbr1="2179.60" ybr1="2779.26" xtl2="-1.51" ytl2="521.19" xbl2="-1.51" ybl2="2443.92" xtr2="-4.25" ytr2="521.21" xbr2="-4.25" ybr2="2443.91" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="113" keyframe="1" outside="1" occluded="0" xtl1="2176.18" ytl1="409.73" xbl1="2176.18" ybl1="2779.24" xtr1="2179.60" ytr1="409.71" xbr1="2179.60" ybr1="2779.26" xtl2="-1.51" ytl2="521.19" xbl2="-1.51" ybl2="2443.92" xtr2="-4.25" ytr2="521.21" xbr2="-4.25" ybr2="2443.91" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="113" label="truck_cuboid" source="manual">
+    <cuboid frame="113" keyframe="1" outside="0" occluded="0" xtl1="2165.75" ytl1="388.97" xbl1="2165.75" ybl1="2794.79" xtr1="2174.38" ytr1="388.90" xbr1="2174.38" ybr1="2794.84" xtl2="17.05" ytl2="480.38" xbl2="17.05" ybl2="2465.41" xtr2="10.01" ytr2="480.43" xbr2="10.01" ybr2="2465.38" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="114" keyframe="1" outside="1" occluded="0" xtl1="2165.75" ytl1="388.97" xbl1="2165.75" ybl1="2794.79" xtr1="2174.38" ytr1="388.90" xbr1="2174.38" ybr1="2794.84" xtl2="17.05" ytl2="480.38" xbl2="17.05" ybl2="2465.41" xtr2="10.01" ytr2="480.43" xbr2="10.01" ybr2="2465.38" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="114" label="truck_cuboid" source="manual">
+    <cuboid frame="114" keyframe="1" outside="0" occluded="0" xtl1="2150.11" ytl1="430.48" xbl1="2150.11" ybl1="2821.03" xtr1="2158.74" ytr1="430.41" xbr1="2158.74" ybr1="2821.08" xtl2="9.41" ytl2="418.00" xbl2="9.41" ybl2="2474.55" xtr2="2.08" ytr2="418.06" xbr2="2.08" ybr2="2474.52" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="115" keyframe="1" outside="1" occluded="0" xtl1="2150.11" ytl1="430.48" xbl1="2150.11" ybl1="2821.03" xtr1="2158.74" ytr1="430.41" xbr1="2158.74" ybr1="2821.08" xtl2="9.41" ytl2="418.00" xbl2="9.41" ybl2="2474.55" xtr2="2.08" ytr2="418.06" xbr2="2.08" ybr2="2474.52" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="115" label="truck_cuboid" source="manual">
+    <cuboid frame="115" keyframe="1" outside="0" occluded="0" xtl1="2160.53" ytl1="451.48" xbl1="2160.53" ybl1="2794.86" xtr1="2163.95" ytr1="451.45" xbr1="2163.95" ybr1="2794.88" xtl2="-3.61" ytl2="384.61" xbl2="-3.61" ybl2="2520.04" xtr2="-6.68" ytr2="384.64" xbr2="-6.68" ybr2="2520.03" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="116" keyframe="1" outside="1" occluded="0" xtl1="2160.53" ytl1="451.48" xbl1="2160.53" ybl1="2794.86" xtr1="2163.95" ytr1="451.45" xbr1="2163.95" ybr1="2794.88" xtl2="-3.61" ytl2="384.61" xbl2="-3.61" ybl2="2520.04" xtr2="-6.68" ytr2="384.64" xbr2="-6.68" ybr2="2520.03" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="116" label="truck_cuboid" source="manual">
+    <cuboid frame="116" keyframe="1" outside="0" occluded="0" xtl1="2160.53" ytl1="467.12" xbl1="2160.53" ybl1="2805.28" xtr1="2163.95" ytr1="467.09" xbr1="2163.95" ybr1="2805.30" xtl2="-3.47" ytl2="342.03" xbl2="-3.47" ybl2="2566.39" xtr2="-6.69" ytr2="342.06" xbr2="-6.69" ybr2="2566.38" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="117" keyframe="1" outside="1" occluded="0" xtl1="2160.53" ytl1="467.12" xbl1="2160.53" ybl1="2805.28" xtr1="2163.95" ytr1="467.09" xbr1="2163.95" ybr1="2805.30" xtl2="-3.47" ytl2="342.03" xbl2="-3.47" ybl2="2566.39" xtr2="-6.69" ytr2="342.06" xbr2="-6.69" ybr2="2566.38" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="117" label="truck_cuboid" source="manual">
+    <cuboid frame="117" keyframe="1" outside="0" occluded="0" xtl1="2160.53" ytl1="514.04" xbl1="2160.53" ybl1="2857.42" xtr1="2163.95" ytr1="514.02" xbr1="2163.95" ybr1="2857.44" xtl2="-3.40" ytl2="303.07" xbl2="-3.40" ybl2="2580.86" xtr2="-6.68" ytr2="303.10" xbr2="-6.68" ybr2="2580.85" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="118" keyframe="1" outside="1" occluded="0" xtl1="2160.53" ytl1="514.04" xbl1="2160.53" ybl1="2857.42" xtr1="2163.95" ytr1="514.02" xbr1="2163.95" ybr1="2857.44" xtl2="-3.40" ytl2="303.07" xbl2="-3.40" ybl2="2580.86" xtr2="-6.68" ytr2="303.10" xbr2="-6.68" ybr2="2580.85" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="118" label="truck_cuboid" source="manual">
+    <cuboid frame="118" keyframe="1" outside="0" occluded="0" xtl1="2160.53" ytl1="567.00" xbl1="2160.53" ybl1="2879.31" xtr1="2163.95" ytr1="566.98" xbr1="2163.95" ybr1="2879.33" xtl2="8.76" ytl2="294.59" xbl2="8.76" ybl2="2606.00" xtr2="5.38" ytr2="294.62" xbr2="5.38" ybr2="2605.98" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="119" keyframe="1" outside="1" occluded="0" xtl1="2160.53" ytl1="567.00" xbl1="2160.53" ybl1="2879.31" xtr1="2163.95" ytr1="566.98" xbr1="2163.95" ybr1="2879.33" xtl2="8.76" ytl2="294.59" xbl2="8.76" ybl2="2606.00" xtr2="5.38" ytr2="294.62" xbr2="5.38" ybr2="2605.98" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="119" label="truck_cuboid" source="manual">
+    <cuboid frame="119" keyframe="1" outside="0" occluded="0" xtl1="2138.48" ytl1="608.21" xbl1="2138.48" ybl1="2906.56" xtr1="2169.84" ytr1="616.33" xbr1="2169.84" ybr1="2914.77" xtl2="52.38" ytl2="285.03" xbl2="52.38" ybl2="2586.74" xtr2="21.08" ytr2="276.91" xbr2="21.08" ybr2="2578.53" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="120" keyframe="1" outside="1" occluded="0" xtl1="2138.48" ytl1="608.21" xbl1="2138.48" ybl1="2906.56" xtr1="2169.84" ytr1="616.33" xbr1="2169.84" ybr1="2914.77" xtl2="52.38" ytl2="285.03" xbl2="52.38" ybl2="2586.74" xtr2="21.08" ytr2="276.91" xbr2="21.08" ybr2="2578.53" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="120" label="truck_cuboid" source="manual">
+    <cuboid frame="120" keyframe="1" outside="0" occluded="0" xtl1="2155.30" ytl1="670.94" xbl1="2155.30" ybl1="2963.37" xtr1="2171.15" ytr1="672.24" xbr1="2171.15" ybr1="2964.76" xtl2="20.14" ytl2="240.61" xbl2="20.14" ybl2="2532.15" xtr2="4.37" ytr2="239.33" xbr2="4.37" ybr2="2530.78" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="121" keyframe="1" outside="1" occluded="0" xtl1="2155.30" ytl1="670.94" xbl1="2155.30" ybl1="2963.37" xtr1="2171.15" ytr1="672.24" xbr1="2171.15" ybr1="2964.76" xtl2="20.14" ytl2="240.61" xbl2="20.14" ybl2="2532.15" xtr2="4.37" ytr2="239.33" xbr2="4.37" ybr2="2530.78" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="121" label="truck_cuboid" source="manual">
+    <cuboid frame="121" keyframe="1" outside="0" occluded="0" xtl1="2160.53" ytl1="724.33" xbl1="2160.53" ybl1="2927.27" xtr1="2163.95" ytr1="724.31" xbr1="2163.95" ybr1="2927.29" xtl2="-3.38" ytl2="241.15" xbl2="-3.38" ybl2="2397.95" xtr2="-6.68" ytr2="241.18" xbr2="-6.68" ybr2="2397.93" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="122" keyframe="1" outside="1" occluded="0" xtl1="2160.53" ytl1="724.33" xbl1="2160.53" ybl1="2927.27" xtr1="2163.95" ytr1="724.31" xbr1="2163.95" ybr1="2927.29" xtl2="-3.38" ytl2="241.15" xbl2="-3.38" ybl2="2397.95" xtr2="-6.68" ytr2="241.18" xbr2="-6.68" ybr2="2397.93" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="122" label="truck_cuboid" source="manual">
+    <cuboid frame="122" keyframe="1" outside="0" occluded="0" xtl1="2160.53" ytl1="811.93" xbl1="2160.53" ybl1="2927.27" xtr1="2163.95" ytr1="811.91" xbr1="2163.95" ybr1="2927.29" xtl2="-3.31" ytl2="224.67" xbl2="-3.31" ybl2="2339.09" xtr2="-6.68" ytr2="224.70" xbr2="-6.68" ybr2="2339.08" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+    <cuboid frame="123" keyframe="1" outside="1" occluded="0" xtl1="2160.53" ytl1="811.93" xbl1="2160.53" ybl1="2927.27" xtr1="2163.95" ytr1="811.91" xbr1="2163.95" ybr1="2927.29" xtl2="-3.31" ytl2="224.67" xbl2="-3.31" ybl2="2339.09" xtr2="-6.68" ytr2="224.70" xbr2="-6.68" ybr2="2339.08" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">false</attribute>
+    </cuboid>
+  </track>
+  <track id="123" label="truck_cuboid" source="manual">
+    <cuboid frame="123" keyframe="1" outside="0" occluded="0" xtl1="2160.53" ytl1="892.85" xbl1="2160.53" ybl1="2934.63" xtr1="2163.95" ytr1="892.83" xbr1="2163.95" ybr1="2934.65" xtl2="-3.31" ytl2="238.73" xbl2="-3.31" ybl2="2279.59" xtr2="-6.68" ytr2="238.76" xbr2="-6.68" ybr2="2279.58" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="124" keyframe="1" outside="1" occluded="0" xtl1="2160.53" ytl1="892.85" xbl1="2160.53" ybl1="2934.63" xtr1="2163.95" ytr1="892.83" xbr1="2163.95" ybr1="2934.65" xtl2="-3.31" ytl2="238.73" xbl2="-3.31" ybl2="2279.59" xtr2="-6.68" ytr2="238.76" xbr2="-6.68" ybr2="2279.58" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="124" label="truck_cuboid" source="manual">
+    <cuboid frame="124" keyframe="1" outside="0" occluded="0" xtl1="2160.53" ytl1="1003.20" xbl1="2160.53" ybl1="2949.34" xtr1="2163.95" ytr1="1003.18" xbr1="2163.95" ybr1="2949.36" xtl2="-3.31" ytl2="266.84" xbl2="-3.31" ybl2="2212.06" xtr2="-6.68" ytr2="266.87" xbr2="-6.68" ybr2="2212.05" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="125" keyframe="1" outside="1" occluded="0" xtl1="2160.53" ytl1="1003.20" xbl1="2160.53" ybl1="2949.34" xtr1="2163.95" ytr1="1003.18" xbr1="2163.95" ybr1="2949.36" xtl2="-3.31" ytl2="266.84" xbl2="-3.31" ybl2="2212.06" xtr2="-6.68" ytr2="266.87" xbr2="-6.68" ybr2="2212.05" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="125" label="truck_cuboid" source="manual">
+    <cuboid frame="125" keyframe="1" outside="0" occluded="0" xtl1="2160.53" ytl1="1106.19" xbl1="2160.53" ybl1="2875.74" xtr1="2163.95" ytr1="1106.17" xbr1="2163.95" ybr1="2875.76" xtl2="-3.31" ytl2="304.33" xbl2="-3.31" ybl2="2072.95" xtr2="-6.68" ytr2="304.36" xbr2="-6.68" ybr2="2072.95" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="126" keyframe="1" outside="1" occluded="0" xtl1="2160.53" ytl1="1106.19" xbl1="2160.53" ybl1="2875.74" xtr1="2163.95" ytr1="1106.17" xbr1="2163.95" ybr1="2875.76" xtl2="-3.31" ytl2="304.33" xbl2="-3.31" ybl2="2072.95" xtr2="-6.68" ytr2="304.36" xbr2="-6.68" ybr2="2072.95" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="126" label="truck_cuboid" source="manual">
+    <cuboid frame="126" keyframe="1" outside="0" occluded="0" xtl1="2160.53" ytl1="1216.53" xbl1="2160.53" ybl1="2949.33" xtr1="2163.95" ytr1="1216.52" xbr1="2163.95" ybr1="2949.36" xtl2="-3.31" ytl2="324.61" xbl2="-3.31" ybl2="2056.48" xtr2="-6.68" ytr2="324.64" xbr2="-6.68" ybr2="2056.47" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="127" keyframe="1" outside="1" occluded="0" xtl1="2160.53" ytl1="1216.53" xbl1="2160.53" ybl1="2949.33" xtr1="2163.95" ytr1="1216.52" xbr1="2163.95" ybr1="2949.36" xtl2="-3.31" ytl2="324.61" xbl2="-3.31" ybl2="2056.48" xtr2="-6.68" ytr2="324.64" xbr2="-6.68" ybr2="2056.47" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="127" label="truck_cuboid" source="manual">
+    <cuboid frame="127" keyframe="1" outside="0" occluded="0" xtl1="2160.53" ytl1="1324.28" xbl1="2160.53" ybl1="2956.25" xtr1="2163.95" ytr1="1324.28" xbr1="2163.95" ybr1="2956.28" xtl2="-3.31" ytl2="372.31" xbl2="-3.31" ybl2="2003.34" xtr2="-6.68" ytr2="372.34" xbr2="-6.68" ybr2="2003.34" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="128" keyframe="1" outside="1" occluded="0" xtl1="2160.53" ytl1="1324.28" xbl1="2160.53" ybl1="2956.25" xtr1="2163.95" ytr1="1324.28" xbr1="2163.95" ybr1="2956.28" xtl2="-3.31" ytl2="372.31" xbl2="-3.31" ybl2="2003.34" xtr2="-6.68" ytr2="372.34" xbr2="-6.68" ybr2="2003.34" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="128" label="truck_cuboid" source="manual">
+    <cuboid frame="128" keyframe="1" outside="0" occluded="0" xtl1="2160.53" ytl1="1452.15" xbl1="2160.53" ybl1="2975.62" xtr1="2163.95" ytr1="1452.14" xbr1="2163.95" ybr1="2975.65" xtl2="-3.31" ytl2="413.32" xbl2="-3.31" ybl2="1935.86" xtr2="-6.68" ytr2="413.35" xbr2="-6.68" ybr2="1935.85" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="129" keyframe="1" outside="1" occluded="0" xtl1="2160.53" ytl1="1452.15" xbl1="2160.53" ybl1="2975.62" xtr1="2163.95" ytr1="1452.14" xbr1="2163.95" ybr1="2975.65" xtl2="-3.31" ytl2="413.32" xbl2="-3.31" ybl2="1935.86" xtr2="-6.68" ytr2="413.35" xbr2="-6.68" ybr2="1935.85" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="129" label="truck_cuboid" source="manual">
+    <cuboid frame="129" keyframe="1" outside="0" occluded="0" xtl1="2160.53" ytl1="1561.90" xbl1="2160.53" ybl1="2988.53" xtr1="2163.95" ytr1="1561.90" xbr1="2163.95" ybr1="2988.56" xtl2="-3.31" ytl2="476.72" xbl2="-3.31" ybl2="1902.41" xtr2="-6.68" ytr2="476.75" xbr2="-6.68" ybr2="1902.41" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="130" keyframe="1" outside="1" occluded="0" xtl1="2160.53" ytl1="1561.90" xbl1="2160.53" ybl1="2988.53" xtr1="2163.95" ytr1="1561.90" xbr1="2163.95" ybr1="2988.56" xtl2="-3.31" ytl2="476.72" xbl2="-3.31" ybl2="1902.41" xtr2="-6.68" ytr2="476.75" xbr2="-6.68" ybr2="1902.41" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="130" label="truck_cuboid" source="manual">
+    <cuboid frame="130" keyframe="1" outside="0" occluded="0" xtl1="2160.53" ytl1="1671.65" xbl1="2160.53" ybl1="2988.53" xtr1="2163.95" ytr1="1671.65" xbr1="2163.95" ybr1="2988.56" xtl2="-3.31" ytl2="534.85" xbl2="-3.31" ybl2="1850.78" xtr2="-6.68" ytr2="534.87" xbr2="-6.68" ybr2="1850.78" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="131" keyframe="1" outside="1" occluded="0" xtl1="2160.53" ytl1="1671.65" xbl1="2160.53" ybl1="2988.53" xtr1="2163.95" ytr1="1671.65" xbr1="2163.95" ybr1="2988.56" xtl2="-3.31" ytl2="534.85" xbl2="-3.31" ybl2="1850.78" xtr2="-6.68" ytr2="534.87" xbr2="-6.68" ybr2="1850.78" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="131" label="truck_cuboid" source="manual">
+    <cuboid frame="131" keyframe="1" outside="0" occluded="0" xtl1="2160.53" ytl1="1774.95" xbl1="2160.53" ybl1="2988.53" xtr1="2163.95" ytr1="1774.95" xbr1="2163.95" ybr1="2988.56" xtl2="-3.31" ytl2="592.88" xbl2="-3.31" ybl2="1805.51" xtr2="-6.68" ytr2="592.90" xbr2="-6.68" ybr2="1805.51" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="132" keyframe="1" outside="1" occluded="0" xtl1="2160.53" ytl1="1774.95" xbl1="2160.53" ybl1="2988.53" xtr1="2163.95" ytr1="1774.95" xbr1="2163.95" ybr1="2988.56" xtl2="-3.31" ytl2="592.88" xbl2="-3.31" ybl2="1805.51" xtr2="-6.68" ytr2="592.90" xbr2="-6.68" ybr2="1805.51" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="132" label="truck_cuboid" source="manual">
+    <cuboid frame="132" keyframe="1" outside="0" occluded="0" xtl1="2160.53" ytl1="1865.33" xbl1="2160.53" ybl1="2994.99" xtr1="2163.95" ytr1="1865.33" xbr1="2163.95" ybr1="2995.01" xtl2="-3.31" ytl2="663.97" xbl2="-3.31" ybl2="1792.67" xtr2="-6.68" ytr2="664.00" xbr2="-6.68" ybr2="1792.67" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="133" keyframe="1" outside="1" occluded="0" xtl1="2160.53" ytl1="1865.33" xbl1="2160.53" ybl1="2994.99" xtr1="2163.95" ytr1="1865.33" xbr1="2163.95" ybr1="2995.01" xtl2="-3.31" ytl2="663.97" xbl2="-3.31" ybl2="1792.67" xtr2="-6.68" ytr2="664.00" xbr2="-6.68" ybr2="1792.67" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="133" label="truck_cuboid" source="manual">
+    <cuboid frame="133" keyframe="1" outside="0" occluded="0" xtl1="2160.53" ytl1="1949.26" xbl1="2160.53" ybl1="3007.90" xtr1="2163.95" ytr1="1949.26" xbr1="2163.95" ybr1="3007.93" xtl2="-3.31" ytl2="715.61" xbl2="-3.31" ybl2="1773.29" xtr2="-6.68" ytr2="715.63" xbr2="-6.68" ybr2="1773.29" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="134" keyframe="1" outside="1" occluded="0" xtl1="2160.53" ytl1="1949.26" xbl1="2160.53" ybl1="3007.90" xtr1="2163.95" ytr1="1949.26" xbr1="2163.95" ybr1="3007.93" xtl2="-3.31" ytl2="715.61" xbl2="-3.31" ybl2="1773.29" xtr2="-6.68" ytr2="715.63" xbr2="-6.68" ybr2="1773.29" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="134" label="truck_cuboid" source="manual">
+    <cuboid frame="134" keyframe="1" outside="0" occluded="0" xtl1="2160.53" ytl1="2033.19" xbl1="2160.53" ybl1="3001.44" xtr1="2163.95" ytr1="2033.19" xbr1="2163.95" ybr1="3001.47" xtl2="-3.31" ytl2="773.72" xbl2="-3.31" ybl2="1741.02" xtr2="-6.68" ytr2="773.74" xbr2="-6.68" ybr2="1741.02" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="135" keyframe="1" outside="1" occluded="0" xtl1="2160.53" ytl1="2033.19" xbl1="2160.53" ybl1="3001.44" xtr1="2163.95" ytr1="2033.19" xbr1="2163.95" ybr1="3001.47" xtl2="-3.31" ytl2="773.72" xbl2="-3.31" ybl2="1741.02" xtr2="-6.68" ytr2="773.74" xbr2="-6.68" ybr2="1741.02" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="135" label="truck_cuboid" source="manual">
+    <cuboid frame="135" keyframe="1" outside="0" occluded="0" xtl1="2160.53" ytl1="2097.75" xbl1="2160.53" ybl1="2988.53" xtr1="2163.95" ytr1="2097.75" xbr1="2163.95" ybr1="2988.56" xtl2="-3.31" ytl2="825.37" xbl2="-3.31" ybl2="1715.19" xtr2="-6.68" ytr2="825.39" xbr2="-6.68" ybr2="1715.19" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="136" keyframe="1" outside="1" occluded="0" xtl1="2160.53" ytl1="2097.75" xbl1="2160.53" ybl1="2988.53" xtr1="2163.95" ytr1="2097.75" xbr1="2163.95" ybr1="2988.56" xtl2="-3.31" ytl2="825.37" xbl2="-3.31" ybl2="1715.19" xtr2="-6.68" ytr2="825.39" xbr2="-6.68" ybr2="1715.19" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="136" label="truck_cuboid" source="manual">
+    <cuboid frame="136" keyframe="1" outside="0" occluded="0" xtl1="2160.53" ytl1="2149.39" xbl1="2160.53" ybl1="2988.53" xtr1="2163.95" ytr1="2149.40" xbr1="2163.95" ybr1="2988.56" xtl2="-3.31" ytl2="870.21" xbl2="-3.31" ybl2="1708.38" xtr2="-6.68" ytr2="870.23" xbr2="-6.68" ybr2="1708.39" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="137" keyframe="1" outside="1" occluded="0" xtl1="2160.53" ytl1="2149.39" xbl1="2160.53" ybl1="2988.53" xtr1="2163.95" ytr1="2149.40" xbr1="2163.95" ybr1="2988.56" xtl2="-3.31" ytl2="870.21" xbl2="-3.31" ybl2="1708.38" xtr2="-6.68" ytr2="870.23" xbr2="-6.68" ybr2="1708.39" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="137" label="truck_cuboid" source="manual">
+    <cuboid frame="137" keyframe="1" outside="0" occluded="0" xtl1="2160.53" ytl1="2213.95" xbl1="2160.53" ybl1="2969.16" xtr1="2163.95" ytr1="2213.96" xbr1="2163.95" ybr1="2969.19" xtl2="-3.31" ytl2="903.00" xbl2="-3.31" ybl2="1657.24" xtr2="-6.68" ytr2="903.02" xbr2="-6.68" ybr2="1657.25" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="138" keyframe="1" outside="1" occluded="0" xtl1="2160.53" ytl1="2213.95" xbl1="2160.53" ybl1="2969.16" xtr1="2163.95" ytr1="2213.96" xbr1="2163.95" ybr1="2969.19" xtl2="-3.31" ytl2="903.00" xbl2="-3.31" ybl2="1657.24" xtr2="-6.68" ytr2="903.02" xbr2="-6.68" ybr2="1657.25" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="138" label="truck_cuboid" source="manual">
+    <cuboid frame="138" keyframe="1" outside="0" occluded="0" xtl1="2160.53" ytl1="2252.69" xbl1="2160.53" ybl1="2936.89" xtr1="2163.95" ytr1="2252.70" xbr1="2163.95" ybr1="2936.91" xtl2="-3.35" ytl2="922.24" xbl2="-3.35" ybl2="1599.00" xtr2="-6.68" ytr2="922.25" xbr2="-6.68" ybr2="1599.01" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="139" keyframe="1" outside="1" occluded="0" xtl1="2160.53" ytl1="2252.69" xbl1="2160.53" ybl1="2936.89" xtr1="2163.95" ytr1="2252.70" xbr1="2163.95" ybr1="2936.91" xtl2="-3.35" ytl2="922.24" xbl2="-3.35" ybl2="1599.00" xtr2="-6.68" ytr2="922.25" xbr2="-6.68" ybr2="1599.01" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="139" label="truck_cuboid" source="manual">
+    <cuboid frame="139" keyframe="1" outside="0" occluded="0" xtl1="2160.53" ytl1="2284.97" xbl1="2160.53" ybl1="2923.97" xtr1="2163.95" ytr1="2284.98" xbr1="2163.95" ybr1="2924.00" xtl2="-3.31" ytl2="954.51" xbl2="-3.31" ybl2="1592.53" xtr2="-6.68" ytr2="954.52" xbr2="-6.68" ybr2="1592.54" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="140" keyframe="1" outside="1" occluded="0" xtl1="2160.53" ytl1="2284.97" xbl1="2160.53" ybl1="2923.97" xtr1="2163.95" ytr1="2284.98" xbr1="2163.95" ybr1="2924.00" xtl2="-3.31" ytl2="954.51" xbl2="-3.31" ybl2="1592.53" xtr2="-6.68" ytr2="954.52" xbr2="-6.68" ybr2="1592.54" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="140" label="truck_cuboid" source="manual">
+    <cuboid frame="140" keyframe="1" outside="0" occluded="0" xtl1="2108.89" ytl1="2310.63" xbl1="2108.89" ybl1="2904.27" xtr1="2151.04" ytr1="2310.76" xbr1="2151.04" ybr1="2904.54" xtl2="28.84" ytl2="1019.49" xbl2="28.84" ybl2="1605.93" xtr2="-12.28" ytr2="1019.67" xbr2="-12.28" ybr2="1605.97" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="141" keyframe="1" outside="1" occluded="0" xtl1="2108.89" ytl1="2310.63" xbl1="2108.89" ybl1="2904.27" xtr1="2151.04" ytr1="2310.76" xbr1="2151.04" ybr1="2904.54" xtl2="28.84" ytl2="1019.49" xbl2="28.84" ybl2="1605.93" xtr2="-12.28" ytr2="1019.67" xbr2="-12.28" ybr2="1605.97" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="141" label="truck_cuboid" source="manual">
+    <cuboid frame="141" keyframe="1" outside="0" occluded="0" xtl1="2044.33" ytl1="2278.29" xbl1="2044.33" ybl1="2890.93" xtr1="2080.03" ytr1="2278.40" xbr1="2080.03" ybr1="2891.16" xtl2="30.18" ytl2="1012.36" xbl2="30.18" ybl2="1624.14" xtr2="-5.05" ytr2="1012.51" xbr2="-5.05" ybr2="1624.17" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="142" keyframe="1" outside="1" occluded="0" xtl1="2044.33" ytl1="2278.29" xbl1="2044.33" ybl1="2890.93" xtr1="2080.03" ytr1="2278.40" xbr1="2080.03" ybr1="2891.16" xtl2="30.18" ytl2="1012.36" xbl2="30.18" ybl2="1624.14" xtr2="-5.05" ytr2="1012.51" xbr2="-5.05" ybr2="1624.17" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="142" label="truck_cuboid" source="manual">
+    <cuboid frame="142" keyframe="1" outside="0" occluded="0" xtl1="2057.24" ytl1="2297.54" xbl1="2057.24" ybl1="2852.27" xtr1="2092.94" ytr1="2297.65" xbr1="2092.94" ybr1="2852.49" xtl2="49.38" ytl2="1035.60" xbl2="49.38" ybl2="1589.56" xtr2="14.16" ytr2="1035.75" xbr2="14.16" ybr2="1589.60" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="143" keyframe="1" outside="1" occluded="0" xtl1="2057.24" ytl1="2297.54" xbl1="2057.24" ybl1="2852.27" xtr1="2092.94" ytr1="2297.65" xbr1="2092.94" ybr1="2852.49" xtl2="49.38" ytl2="1035.60" xbl2="49.38" ybl2="1589.56" xtr2="14.16" ytr2="1035.75" xbr2="14.16" ybr2="1589.60" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="143" label="truck_cuboid" source="manual">
+    <cuboid frame="143" keyframe="1" outside="0" occluded="0" xtl1="2018.50" ytl1="2297.39" xbl1="2018.50" ybl1="2839.12" xtr1="2054.20" ytr1="2297.50" xbr1="2054.20" ybr1="2839.34" xtl2="30.56" ytl2="1030.18" xbl2="30.56" ybl2="1571.13" xtr2="-4.67" ytr2="1030.33" xbr2="-4.67" ybr2="1571.17" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="144" keyframe="1" outside="1" occluded="0" xtl1="2018.50" ytl1="2297.39" xbl1="2018.50" ybl1="2839.12" xtr1="2054.20" ytr1="2297.50" xbr1="2054.20" ybr1="2839.34" xtl2="30.56" ytl2="1030.18" xbl2="30.56" ybl2="1571.13" xtr2="-4.67" ytr2="1030.33" xbr2="-4.67" ybr2="1571.17" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="144" label="truck_cuboid" source="manual">
+    <cuboid frame="144" keyframe="1" outside="0" occluded="0" xtl1="1979.77" ytl1="2264.97" xbl1="1979.77" ybl1="2787.22" xtr1="2002.55" ytr1="2265.04" xbr1="2002.55" ybr1="2787.36" xtl2="18.38" ytl2="1016.29" xbl2="18.38" ybl2="1537.68" xtr2="-4.11" ytr2="1016.39" xbr2="-4.11" ybr2="1537.71" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="145" keyframe="1" outside="1" occluded="0" xtl1="1979.77" ytl1="2264.97" xbl1="1979.77" ybl1="2787.22" xtr1="2002.55" ytr1="2265.04" xbr1="2002.55" ybr1="2787.36" xtl2="18.38" ytl2="1016.29" xbl2="18.38" ybl2="1537.68" xtr2="-4.11" ytr2="1016.39" xbr2="-4.11" ybr2="1537.71" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="145" label="truck_cuboid" source="manual">
+    <cuboid frame="145" keyframe="1" outside="0" occluded="0" xtl1="1947.48" ytl1="2245.49" xbl1="1947.48" ybl1="2767.67" xtr1="1976.73" ytr1="2245.57" xbr1="1976.73" ybr1="2767.84" xtl2="29.80" ytl2="1032.57" xbl2="29.80" ybl2="1542.33" xtr2="1.57" ytr2="1032.69" xbr2="1.57" ybr2="1542.37" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="146" keyframe="1" outside="1" occluded="0" xtl1="1947.48" ytl1="2245.49" xbl1="1947.48" ybl1="2767.67" xtr1="1976.73" ytr1="2245.57" xbr1="1976.73" ybr1="2767.84" xtl2="29.80" ytl2="1032.57" xbl2="29.80" ybl2="1542.33" xtr2="1.57" ytr2="1032.69" xbr2="1.57" ybr2="1542.37" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="146" label="truck_cuboid" source="manual">
+    <cuboid frame="146" keyframe="1" outside="0" occluded="0" xtl1="1902.29" ytl1="2219.51" xbl1="1902.29" ybl1="2741.57" xtr1="1925.08" ytr1="2219.57" xbr1="1925.08" ybr1="2741.70" xtl2="-0.12" ytl2="997.10" xbl2="-0.12" ybl2="1511.84" xtr2="-22.34" ytr2="997.20" xbr2="-22.34" ybr2="1511.87" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="147" keyframe="1" outside="1" occluded="0" xtl1="1902.29" ytl1="2219.51" xbl1="1902.29" ybl1="2741.57" xtr1="1925.08" ytr1="2219.57" xbr1="1925.08" ybr1="2741.70" xtl2="-0.12" ytl2="997.10" xbl2="-0.12" ybl2="1511.84" xtr2="-22.34" ytr2="997.20" xbr2="-22.34" ybr2="1511.87" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="147" label="truck_cuboid" source="manual">
+    <cuboid frame="147" keyframe="1" outside="0" occluded="0" xtl1="1934.53" ytl1="2238.97" xbl1="1934.53" ybl1="2709.49" xtr1="1937.99" ytr1="2238.99" xbr1="1937.99" ybr1="2709.53" xtl2="167.88" ytl2="1114.18" xbl2="167.88" ybl2="1583.75" xtr2="164.53" ytr2="1114.23" xbr2="164.53" ybr2="1583.77" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="148" keyframe="1" outside="1" occluded="0" xtl1="1934.53" ytl1="2238.97" xbl1="1934.53" ybl1="2709.49" xtr1="1937.99" ytr1="2238.99" xbr1="1937.99" ybr1="2709.53" xtl2="167.88" ytl2="1114.18" xbl2="167.88" ybl2="1583.75" xtr2="164.53" ytr2="1114.23" xbr2="164.53" ybr2="1583.77" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="148" label="truck_cuboid" source="manual">
+    <cuboid frame="148" keyframe="1" outside="0" occluded="0" xtl1="1902.29" ytl1="2219.53" xbl1="1902.29" ybl1="2715.79" xtr1="1912.17" ytr1="2219.55" xbr1="1912.17" ybr1="2715.85" xtl2="303.30" ytl2="1176.16" xbl2="303.30" ybl2="1671.48" xtr2="293.53" ytr2="1176.19" xbr2="293.53" ybr2="1671.48" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="149" keyframe="1" outside="1" occluded="0" xtl1="1902.29" ytl1="2219.53" xbl1="1902.29" ybl1="2715.79" xtr1="1912.17" ytr1="2219.55" xbr1="1912.17" ybr1="2715.85" xtl2="303.30" ytl2="1176.16" xbl2="303.30" ybl2="1671.48" xtr2="293.53" ytr2="1176.19" xbr2="293.53" ybr2="1671.48" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="149" label="truck_cuboid" source="manual">
+    <cuboid frame="149" keyframe="1" outside="0" occluded="0" xtl1="1870.01" ytl1="2180.68" xbl1="1870.01" ybl1="2676.89" xtr1="1892.80" ytr1="2180.73" xbr1="1892.80" ybr1="2677.00" xtl2="388.07" ytl2="1237.11" xbl2="388.07" ybl2="1732.46" xtr2="365.53" ytr2="1237.18" xbr2="365.53" ybr2="1732.46" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="150" keyframe="1" outside="1" occluded="0" xtl1="1870.01" ytl1="2180.68" xbl1="1870.01" ybl1="2676.89" xtr1="1892.80" ytr1="2180.73" xbr1="1892.80" ybr1="2677.00" xtl2="388.07" ytl2="1237.11" xbl2="388.07" ybl2="1732.46" xtr2="365.53" ytr2="1237.18" xbr2="365.53" ybr2="1732.46" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="150" label="truck_cuboid" source="manual">
+    <cuboid frame="150" keyframe="1" outside="0" occluded="0" xtl1="1889.38" ytl1="2187.22" xbl1="1889.38" ybl1="2651.20" xtr1="1912.17" ytr1="2187.27" xbr1="1912.17" ybr1="2651.32" xtl2="484.65" ytl2="1281.91" xbl2="484.65" ybl2="1745.01" xtr2="462.09" ytr2="1281.97" xbr2="462.09" ybr2="1745.02" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="151" keyframe="1" outside="1" occluded="0" xtl1="1889.38" ytl1="2187.22" xbl1="1889.38" ybl1="2651.20" xtr1="1912.17" ytr1="2187.27" xbr1="1912.17" ybr1="2651.32" xtl2="484.65" ytl2="1281.91" xbl2="484.65" ybl2="1745.01" xtr2="462.09" ytr2="1281.97" xbr2="462.09" ybr2="1745.02" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="151" label="truck_cuboid" source="manual">
+    <cuboid frame="151" keyframe="1" outside="0" occluded="0" xtl1="1908.75" ytl1="2187.27" xbl1="1908.75" ybl1="2651.30" xtr1="1925.08" ytr1="2187.31" xbr1="1925.08" ybr1="2651.38" xtl2="600.74" ytl2="1347.40" xbl2="600.74" ybl2="1810.57" xtr2="584.57" ytr2="1347.44" xbr2="584.57" ybr2="1810.57" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="152" keyframe="1" outside="1" occluded="0" xtl1="1908.75" ytl1="2187.27" xbl1="1908.75" ybl1="2651.30" xtr1="1925.08" ytr1="2187.31" xbr1="1925.08" ybr1="2651.38" xtl2="600.74" ytl2="1347.40" xbl2="600.74" ybl2="1810.57" xtr2="584.57" ytr2="1347.44" xbr2="584.57" ybr2="1810.57" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="152" label="truck_cuboid" source="manual">
+    <cuboid frame="152" keyframe="1" outside="0" occluded="0" xtl1="1889.38" ytl1="2187.22" xbl1="1889.38" ybl1="2618.92" xtr1="1912.17" ytr1="2187.27" xbr1="1912.17" ybr1="2619.04" xtl2="665.44" ytl2="1396.58" xbl2="665.44" ybl2="1827.57" xtr2="642.86" ytr2="1396.62" xbr2="642.86" ybr2="1827.56" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="153" keyframe="1" outside="1" occluded="0" xtl1="1889.38" ytl1="2187.22" xbl1="1889.38" ybl1="2618.92" xtr1="1912.17" ytr1="2187.27" xbr1="1912.17" ybr1="2619.04" xtl2="665.44" ytl2="1396.58" xbl2="665.44" ybl2="1827.57" xtr2="642.86" ytr2="1396.62" xbr2="642.86" ybr2="1827.56" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="153" label="truck_cuboid" source="manual">
+    <cuboid frame="153" keyframe="1" outside="0" occluded="0" xtl1="1889.38" ytl1="2187.22" xbl1="1889.38" ybl1="2618.93" xtr1="1912.17" ytr1="2187.27" xbr1="1912.17" ybr1="2619.04" xtl2="730.00" ytl2="1422.60" xbl2="730.00" ybl2="1853.41" xtr2="707.42" ytr2="1422.64" xbr2="707.42" ybr2="1853.40" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="154" keyframe="1" outside="1" occluded="0" xtl1="1889.38" ytl1="2187.22" xbl1="1889.38" ybl1="2618.93" xtr1="1912.17" ytr1="2187.27" xbr1="1912.17" ybr1="2619.04" xtl2="730.00" ytl2="1422.60" xbl2="730.00" ybl2="1853.41" xtr2="707.42" ytr2="1422.64" xbr2="707.42" ybr2="1853.40" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="154" label="truck_cuboid" source="manual">
+    <cuboid frame="154" keyframe="1" outside="0" occluded="0" xtl1="1902.29" ytl1="2187.25" xbl1="1902.29" ybl1="2580.25" xtr1="1925.08" ytr1="2187.31" xbr1="1925.08" ybr1="2580.36" xtl2="820.31" ytl2="1486.65" xbl2="820.31" ybl2="1879.09" xtr2="797.70" ytr2="1486.69" xbr2="797.70" ybr2="1879.07" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="155" keyframe="1" outside="1" occluded="0" xtl1="1902.29" ytl1="2187.25" xbl1="1902.29" ybl1="2580.25" xtr1="1925.08" ytr1="2187.31" xbr1="1925.08" ybr1="2580.36" xtl2="820.31" ytl2="1486.65" xbl2="820.31" ybl2="1879.09" xtr2="797.70" ytr2="1486.69" xbr2="797.70" ybr2="1879.07" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="155" label="truck_cuboid" source="manual">
+    <cuboid frame="155" keyframe="1" outside="0" occluded="0" xtl1="1889.38" ytl1="2154.94" xbl1="1889.38" ybl1="2567.28" xtr1="1912.17" ytr1="2154.99" xbr1="1912.17" ybr1="2567.38" xtl2="865.61" ytl2="1491.29" xbl2="865.61" ybl2="1903.07" xtr2="843.00" ytr2="1491.33" xbr2="843.00" ybr2="1903.05" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="156" keyframe="1" outside="1" occluded="0" xtl1="1889.38" ytl1="2154.94" xbl1="1889.38" ybl1="2567.28" xtr1="1912.17" ytr1="2154.99" xbr1="1912.17" ybr1="2567.38" xtl2="865.61" ytl2="1491.29" xbl2="865.61" ybl2="1903.07" xtr2="843.00" ytr2="1491.33" xbr2="843.00" ybr2="1903.05" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="156" label="truck_cuboid" source="manual">
+    <cuboid frame="156" keyframe="1" outside="0" occluded="0" xtl1="1889.38" ytl1="2154.94" xbl1="1889.38" ybl1="2547.91" xtr1="1912.17" ytr1="2154.99" xbr1="1912.17" ybr1="2548.01" xtl2="904.33" ytl2="1516.25" xbl2="904.33" ybl2="1908.32" xtr2="881.73" ytr2="1516.28" xbr2="881.73" ybr2="1908.30" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="157" keyframe="1" outside="1" occluded="0" xtl1="1889.38" ytl1="2154.94" xbl1="1889.38" ybl1="2547.91" xtr1="1912.17" ytr1="2154.99" xbr1="1912.17" ybr1="2548.01" xtl2="904.33" ytl2="1516.25" xbl2="904.33" ybl2="1908.32" xtr2="881.73" ytr2="1516.28" xbr2="881.73" ybr2="1908.30" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="157" label="truck_cuboid" source="manual">
+    <cuboid frame="157" keyframe="1" outside="0" occluded="0" xtl1="1889.38" ytl1="2154.94" xbl1="1889.38" ybl1="2554.37" xtr1="1912.17" ytr1="2154.99" xbr1="1912.17" ybr1="2554.47" xtl2="968.90" ytl2="1576.18" xbl2="968.90" ybl2="1974.71" xtr2="946.29" ytr2="1576.21" xbr2="946.29" ybr2="1974.68" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="158" keyframe="1" outside="1" occluded="0" xtl1="1889.38" ytl1="2154.94" xbl1="1889.38" ybl1="2554.37" xtr1="1912.17" ytr1="2154.99" xbr1="1912.17" ybr1="2554.47" xtl2="968.90" ytl2="1576.18" xbl2="968.90" ybl2="1974.71" xtr2="946.29" ytr2="1576.21" xbr2="946.29" ybr2="1974.68" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="158" label="truck_cuboid" source="manual">
+    <cuboid frame="158" keyframe="1" outside="0" occluded="0" xtl1="1889.38" ytl1="2154.94" xbl1="1889.38" ybl1="2541.46" xtr1="1912.17" ytr1="2154.99" xbr1="1912.17" ybr1="2541.56" xtl2="1001.19" ytl2="1577.74" xbl2="1001.19" ybl2="1963.35" xtr2="978.57" ytr2="1577.76" xbr2="978.57" ybr2="1963.33" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="159" keyframe="1" outside="1" occluded="0" xtl1="1889.38" ytl1="2154.94" xbl1="1889.38" ybl1="2541.46" xtr1="1912.17" ytr1="2154.99" xbr1="1912.17" ybr1="2541.56" xtl2="1001.19" ytl2="1577.74" xbl2="1001.19" ybl2="1963.35" xtr2="978.57" ytr2="1577.76" xbr2="978.57" ybr2="1963.33" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="159" label="truck_cuboid" source="manual">
+    <cuboid frame="159" keyframe="1" outside="0" occluded="0" xtl1="1889.38" ytl1="2154.94" xbl1="1889.38" ybl1="2515.64" xtr1="1912.17" ytr1="2154.99" xbr1="1912.17" ybr1="2515.73" xtl2="1052.87" ytl2="1610.04" xbl2="1052.87" ybl2="1970.35" xtr2="1030.22" ytr2="1610.07" xbr2="1030.22" ybr2="1970.32" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="160" keyframe="1" outside="1" occluded="0" xtl1="1889.38" ytl1="2154.94" xbl1="1889.38" ybl1="2515.64" xtr1="1912.17" ytr1="2154.99" xbr1="1912.17" ybr1="2515.73" xtl2="1052.87" ytl2="1610.04" xbl2="1052.87" ybl2="1970.35" xtr2="1030.22" ytr2="1610.07" xbr2="1030.22" ybr2="1970.32" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="160" label="truck_cuboid" source="manual">
+    <cuboid frame="160" keyframe="1" outside="0" occluded="0" xtl1="1902.29" ytl1="2154.97" xbl1="1902.29" ybl1="2509.24" xtr1="1925.08" ytr1="2155.02" xbr1="1925.08" ybr1="2509.33" xtl2="1091.53" ytl2="1626.41" xbl2="1091.53" ybl2="1980.31" xtr2="1068.88" ytr2="1626.43" xbr2="1068.88" ybr2="1980.28" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="161" keyframe="1" outside="1" occluded="0" xtl1="1902.29" ytl1="2154.97" xbl1="1902.29" ybl1="2509.24" xtr1="1925.08" ytr1="2155.02" xbr1="1925.08" ybr1="2509.33" xtl2="1091.53" ytl2="1626.41" xbl2="1091.53" ybl2="1980.31" xtr2="1068.88" ytr2="1626.43" xbr2="1068.88" ybr2="1980.28" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="161" label="truck_cuboid" source="manual">
+    <cuboid frame="161" keyframe="1" outside="0" occluded="0" xtl1="1889.38" ytl1="2154.94" xbl1="1889.38" ybl1="2522.09" xtr1="1912.17" ytr1="2154.99" xbr1="1912.17" ybr1="2522.19" xtl2="1110.98" ytl2="1646.90" xbl2="1110.98" ybl2="2013.68" xtr2="1088.33" ytr2="1646.91" xbr2="1088.33" ybr2="2013.65" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="162" keyframe="1" outside="1" occluded="0" xtl1="1889.38" ytl1="2154.94" xbl1="1889.38" ybl1="2522.09" xtr1="1912.17" ytr1="2154.99" xbr1="1912.17" ybr1="2522.19" xtl2="1110.98" ytl2="1646.90" xbl2="1110.98" ybl2="2013.68" xtr2="1088.33" ytr2="1646.91" xbr2="1088.33" ybr2="2013.65" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="162" label="truck_cuboid" source="manual">
+    <cuboid frame="162" keyframe="1" outside="0" occluded="0" xtl1="1889.38" ytl1="2154.94" xbl1="1889.38" ybl1="2528.56" xtr1="1912.17" ytr1="2154.99" xbr1="1912.17" ybr1="2528.66" xtl2="1156.15" ytl2="1669.66" xbl2="1156.15" ybl2="2042.37" xtr2="1133.52" ytr2="1669.67" xbr2="1133.52" ybr2="2042.34" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="163" keyframe="1" outside="1" occluded="0" xtl1="1889.38" ytl1="2154.94" xbl1="1889.38" ybl1="2528.56" xtr1="1912.17" ytr1="2154.99" xbr1="1912.17" ybr1="2528.66" xtl2="1156.15" ytl2="1669.66" xbl2="1156.15" ybl2="2042.37" xtr2="1133.52" ytr2="1669.67" xbr2="1133.52" ybr2="2042.34" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="163" label="truck_cuboid" source="manual">
+    <cuboid frame="163" keyframe="1" outside="0" occluded="0" xtl1="1889.38" ytl1="2154.94" xbl1="1889.38" ybl1="2522.09" xtr1="1912.17" ytr1="2154.99" xbr1="1912.17" ybr1="2522.19" xtl2="1188.47" ytl2="1696.04" xbl2="1188.47" ybl2="2062.86" xtr2="1165.80" ytr2="1696.05" xbr2="1165.80" ybr2="2062.82" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="164" keyframe="1" outside="1" occluded="0" xtl1="1889.38" ytl1="2154.94" xbl1="1889.38" ybl1="2522.09" xtr1="1912.17" ytr1="2154.99" xbr1="1912.17" ybr1="2522.19" xtl2="1188.47" ytl2="1696.04" xbl2="1188.47" ybl2="2062.86" xtr2="1165.80" ytr2="1696.05" xbr2="1165.80" ybr2="2062.82" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="164" label="truck_cuboid" source="manual">
+    <cuboid frame="164" keyframe="1" outside="0" occluded="0" xtl1="1889.38" ytl1="2154.94" xbl1="1889.38" ybl1="2483.36" xtr1="1912.17" ytr1="2154.99" xbr1="1912.17" ybr1="2483.45" xtl2="1207.84" ytl2="1708.32" xbl2="1207.84" ybl2="2036.45" xtr2="1185.17" ytr2="1708.33" xbr2="1185.17" ybr2="2036.42" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+    <cuboid frame="165" keyframe="1" outside="1" occluded="0" xtl1="1889.38" ytl1="2154.94" xbl1="1889.38" ybl1="2483.36" xtr1="1912.17" ytr1="2154.99" xbr1="1912.17" ybr1="2483.45" xtl2="1207.84" ytl2="1708.32" xbl2="1207.84" ybl2="2036.45" xtr2="1185.17" ytr2="1708.33" xbr2="1185.17" ybr2="2036.42" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="165" label="truck_cuboid" source="manual">
+    <cuboid frame="165" keyframe="1" outside="0" occluded="0" xtl1="1889.38" ytl1="2142.02" xbl1="1889.38" ybl1="2489.81" xtr1="1912.17" ytr1="2142.07" xbr1="1912.17" ybr1="2489.91" xtl2="1240.08" ytl2="1716.51" xbl2="1240.08" ybl2="2063.39" xtr2="1217.45" ytr2="1716.51" xbr2="1217.45" ybr2="2063.35" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+  <track id="166" label="truck_cuboid" source="manual">
+    <cuboid frame="166" keyframe="1" outside="0" occluded="0" xtl1="1889.38" ytl1="2154.94" xbl1="1889.38" ybl1="2463.99" xtr1="1912.17" ytr1="2154.99" xbr1="1912.17" ybr1="2464.08" xtl2="1272.41" ytl2="1749.27" xbl2="1272.41" ybl2="2058.08" xtr2="1249.73" ytr2="1749.27" xbr2="1249.73" ybr2="2058.04" z_order="0">
+      <attribute name="Truncated">true</attribute>
+      <attribute name="Cuboid not possible">true</attribute>
+    </cuboid>
+  </track>
+</annotations>
