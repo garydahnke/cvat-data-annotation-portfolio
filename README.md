@@ -61,7 +61,7 @@ cvat-data-annotation-portfolio/
 ├── polygons/    
 │   └── polygon-annotations-1990s-scene.pdf  
 │
-├── video-annotation/  
+├── video-annotations/  
 │   ├── video-annotation-semi-truck-30-frames.pdf      
 │   ├── video-annotation-semi-truck-every-10th-frame.pdf    
 │   ├── trucks.mp4      
