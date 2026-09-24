@@ -60,6 +60,13 @@ cvat-data-annotation-portfolio/
 │      
 ├── polygons/    
 │   └── polygon-annotations-1990s-scene.pdf  
+│
+├── masks/  
+│   ├── video-annotation-semi-truck-30-frames.pdf      
+│   ├── video-annotation-semi-truck-every-10th-frame.pdf    
+│   ├── trucks.mp4      
+│   ├── video-annotation-semi-truck-using-cuboid-coco-1.0.json        
+│   └── video-annotation-semi-truck-using-cuboid-cvat-for-images-1-1.xml      
 │      
 └── README.md    
 
